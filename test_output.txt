@@ -1,0 +1,593 @@
+Executive Summary                                                                Page Number = 23; Y-Value = 720.
+PROPOSED ACTION                                                                  Page Number = 23; Y-Value = 191.
+PUBLIC INVOLVEMENT                                                               Page Number = 24; Y-Value = 326.
+PROJECT IMPACTS AND MITIGATION                                                   Page Number = 25; Y-Value = 272.
+Geology                                                                          Page Number = 26; Y-Value = 720.
+Soils                                                                            Page Number = 26; Y-Value = 382.
+Water Resources                                                                  Page Number = 27; Y-Value = 287.
+Wetlands                                                                         Page Number = 29; Y-Value = 461.
+Vegetation                                                                       Page Number = 30; Y-Value = 599.
+Wildlife                                                                         Page Number = 31; Y-Value = 477.
+Threatened, Endangered, and Other Special Status Species                         Page Number = 32; Y-Value = 217.
+Land Use, Special Interest Areas, and Visual Resources                           Page Number = 35; Y-Value = 680.
+Socioeconomics                                                                   Page Number = 36; Y-Value = 491.
+Cultural Resources                                                               Page Number = 37; Y-Value = 720.
+Air Quality and Noise                                                            Page Number = 37; Y-Value = 436.
+Reliability and Safety                                                           Page Number = 39; Y-Value = 437.
+Cumulative Impacts                                                               Page Number = 40; Y-Value = 667.
+ALTERNATIVES                                                                     Page Number = 40; Y-Value = 382.
+MAJOR CONCLUSIONS                                                                Page Number = 41; Y-Value = 149.
+1.0 Introduction                                                                 Page Number = 43; Y-Value = 720.
+1.1 Projects Purpose and Need                                                    Page Number = 44; Y-Value = 448.
+1.1.1 Mountaineer XPress Project                                                 Page Number = 44; Y-Value = 422.
+1.1.2 Gulf XPress Project                                                        Page Number = 45; Y-Value = 680.
+1.2 Purpose and Scope of the EIS                                                 Page Number = 45; Y-Value = 518.
+1.1.3 Federal Energy Regulatory Commission                                       Page Number = 46; Y-Value = 667.
+1.1.4 U.S. Environmental Protection Agency                                       Page Number = 46; Y-Value = 315.
+1.1.5 U.S. Army Corps of Engineers                                               Page Number = 47; Y-Value = 422.
+1.2.1 West Virginia Department of Environmental Protection                       Page Number = 48; Y-Value = 653.
+1.2.2 West Virginia Division of Natural Resources                                Page Number = 48; Y-Value = 505.
+1.3 Public Review and Comment                                                    Page Number = 49; Y-Value = 477.
+1.3.1 Mountaineer XPress Project                                                 Page Number = 49; Y-Value = 451.
+1.3.2 Gulf XPress Project                                                        Page Number = 52; Y-Value = 449.
+1.4 Nonjurisdictional Facilities                                                 Page Number = 54; Y-Value = 144.
+1.4.1 Mountaineer XPress Project                                                 Page Number = 55; Y-Value = 625.
+1.4.2 Gulf XPress Project                                                        Page Number = 56; Y-Value = 639.
+1.5 Permits, Approvals, Consultations, and Regulatory Requirements               Page Number = 56; Y-Value = 436.
+1.5.1 Endangered Species Act                                                     Page Number = 59; Y-Value = 370.
+1.5.2 Migratory Bi2rd Treaty Act                                                  Page Number = 60; Y-Value = 720.
+1.5.3 Rivers and Harbors Act                                                     Page Number = 60; Y-Value = 463.
+1.5.4 Clean Water Act                                                            Page Number = 60; Y-Value = 315.
+1.5.5 Clean Air Act                                                              Page Number = 61; Y-Value = 611.
+1.5.6 National Historic Preservation Act                                         Page Number = 61; Y-Value = 382.
+2.0 Description of the Proposed Action                                           Page Number = 62; Y-Value = 720.
+2.1 Mountaineer XPress Proposed Facilities                                       Page Number = 62; Y-Value = 694.
+2.1.1 Pipeline Facilities                                                        Page Number = 62; Y-Value = 587.
+2.1.2 Aboveground Facilities                                                     Page Number = 64; Y-Value = 570.
+2.1.2.1 Tie-in and Regulator Facilities                                          Page Number = 65; Y-Value = 625.
+2.1.2.2 New Compressor Stations                                                  Page Number = 65; Y-Value = 398.
+2.1.2.3 Compressor Station Modifications                                         Page Number = 66; Y-Value = 680.
+2.2 Gulf XPress Project                                                          Page Number = 66; Y-Value = 494.
+2.2.1 Aboveground Facilities                                                     Page Number = 69; Y-Value = 720.
+2.2.1.1 New Compressor Stations                                                  Page Number = 69; Y-Value = 694.
+2.2.1.2 Modifications to Existing Aboveground Facilities                         Page Number = 70; Y-Value = 368.
+2.3 Land Requirements                                                            Page Number = 71; Y-Value = 720.
+2.3.1 Mountaineer XPress Project                                                 Page Number = 71; Y-Value = 694.
+2.3.1.1 Pipeline Right-of-Way                                                    Page Number = 74; Y-Value = 484.
+2.3.1.2 Aboveground Facilities                                                   Page Number = 75; Y-Value = 246.
+2.3.1.3 Contractor Yards, Pipe Storage, and Staging Areas                        Page Number = 76; Y-Value = 463.
+2.3.1.4 Access Roads                                                             Page Number = 76; Y-Value = 329.
+2.3.2 Gulf XPress Project                                                        Page Number = 77; Y-Value = 720.
+2.4 Construction Procedures                                                      Page Number = 78; Y-Value = 352.
+2.4.1 General Pipeline Construction Procedures                                   Page Number = 79; Y-Value = 239.
+2.4.1.1 Survey and Staking                                                       Page Number = 80; Y-Value = 720.
+2.4.1.2 Clearing Operations                                                      Page Number = 80; Y-Value = 530.
+2.4.1.3 Grading                                                                  Page Number = 81; Y-Value = 720.
+2.4.1.4 Trenching                                                                Page Number = 81; Y-Value = 518.
+2.4.1.5 Shallow Bedrock and Blasting                                             Page Number = 81; Y-Value = 153.
+2.4.1.6 Pipe Stringing, Bending, and Welding                                     Page Number = 82; Y-Value = 489.
+2.4.1.7 Lowering-in and Backfilling                                              Page Number = 83; Y-Value = 667.
+2.4.1.8 Cleaning and Hydrostatic Testing                                         Page Number = 83; Y-Value = 449.
+2.4.1.9 Cleanup and Restoration                                                  Page Number = 84; Y-Value = 720.
+2.4.1.10 Cathodic Protection and Alternating Current Mitigation                  Page Number = 84; Y-Value = 463.
+2.4.2 Pipeline Replacement Procedures                                            Page Number = 84; Y-Value = 274.
+2.4.3 Aboveground Facility Construction Procedures                               Page Number = 85; Y-Value = 639.
+2.4.4 Specialized Construction Procedures                                        Page Number = 86; Y-Value = 493.
+2.4.4.1 Wetland Crossings                                                        Page Number = 86; Y-Value = 400.
+2.4.4.2 Waterbody Crossings                                                      Page Number = 88; Y-Value = 505.
+2.4.4.2.1 Dry Crossing Construction Methods                                      Page Number = 90; Y-Value = 366.
+2.4.4.2.2 Wet Open-Cut Crossing Method                                           Page Number = 91; Y-Value = 625.
+2.4.4.2.3 Trenchless Crossing Methods                                            Page Number = 91; Y-Value = 436.
+2.4.4.3 Road and Railroad Crossings                                              Page Number = 92; Y-Value = 422.
+2.4.4.4 Residential Areas                                                        Page Number = 93; Y-Value = 570.
+2.4.4.5 Agricultural Lands                                                       Page Number = 94; Y-Value = 613.
+2.4.4.6 Rugged Topography                                                        Page Number = 94; Y-Value = 222.
+2.4.4.7 Winter Construction Procedures                                           Page Number = 96; Y-Value = 237.
+2.4.4.8 Karst Areas                                                              Page Number = 97; Y-Value = 653.
+2.4.4.9 Overhead Powerlines                                                      Page Number = 97; Y-Value = 437.
+2.5 Construction Schedule and Workforce                                          Page Number = 97; Y-Value = 175.
+2.6 Environmental Compliance and Monitoring                                      Page Number = 98; Y-Value = 284.
+2.6.1 Environmental Training and Inspection                                      Page Number = 98; Y-Value = 258.
+2.6.2 Compliance Responsibility                                                  Page Number = 100; Y-Value = 297.
+2.6.3 Post-Approval Variance Process                                             Page Number = 101; Y-Value = 503.
+2.6.4 Post-Construction Monitoring                                               Page Number = 102; Y-Value = 639.
+2.7 Operation and Maintenance                                                    Page Number = 102; Y-Value = 230.
+2.8 Future Plans and Abandonment                                                 Page Number = 104; Y-Value = 720.
+3.0 Alternatives                                                                 Page Number = 105; Y-Value = 720.
+3.1 No-action Alternative                                                        Page Number = 106; Y-Value = 284.
+3.2 System Alternatives                                                          Page Number = 107; Y-Value = 367.
+3.2.1 System Alternatives for MXP                                                Page Number = 108; Y-Value = 570.
+3.2.2 System Alternatives for GXP                                                Page Number = 111; Y-Value = 544.
+3.3 Major Pipeline Route Alternatives                                            Page Number = 112; Y-Value = 163.
+3.3.1 Legacy 1 Alternative                                                       Page Number = 117; Y-Value = 720.
+3.3.2 Legacy 2 Alternative                                                       Page Number = 118; Y-Value = 639.
+3.3.3 Leach XPress Alternative                                                   Page Number = 119; Y-Value = 720.
+3.3.4 Major Route Alternatives Conclusions                                       Page Number = 122; Y-Value = 720.
+3.4 Pipeline Route Variations                                                    Page Number = 122; Y-Value = 544.
+3.5 MXP Aboveground Facility Site Alternatives                                   Page Number = 124; Y-Value = 653.
+3.6 GXP Compressor Stations                                                      Page Number = 125; Y-Value = 477.
+3.6.1 Kentucky                                                                   Page Number = 128; Y-Value = 720.
+3.6.2 Tennessee                                                                  Page Number = 129; Y-Value = 653.
+3.6.3 Mississippi                                                                Page Number = 133; Y-Value = 720.
+4.0 Environmental Analysis                                                       Page Number = 134; Y-Value = 720.
+4.1 Geology                                                                      Page Number = 134; Y-Value = 694.
+4.1.1 Geologic Setting                                                           Page Number = 134; Y-Value = 668.
+4.1.1.1 Mountaineer XPress Project                                               Page Number = 134; Y-Value = 603.
+4.1.1.2 Gulf XPress Project                                                      Page Number = 134; Y-Value = 413.
+4.1.2 Mineral Resources                                                          Page Number = 136; Y-Value = 530.
+4.1.2.1 Mountaineer XPress Project                                               Page Number = 136; Y-Value = 465.
+4.1.2.2 Gulf XPress Project                                                      Page Number = 137; Y-Value = 170.
+4.1.3 Paleontology                                                               Page Number = 138; Y-Value = 639.
+4.1.3.1 Mountaineer XPress Project                                               Page Number = 138; Y-Value = 613.
+4.1.3.2 Gulf XPress Project                                                      Page Number = 138; Y-Value = 520.
+4.1.4 Geologic Hazards                                                           Page Number = 138; Y-Value = 358.
+4.1.4.1 Earthquakes                                                              Page Number = 139; Y-Value = 611.
+4.1.4.1.1 Mountaineer XPress Project                                             Page Number = 140; Y-Value = 653.
+4.1.4.1.2 Gulf XPress Project                                                    Page Number = 141; Y-Value = 572.
+4.1.4.2 Faults                                                                   Page Number = 142; Y-Value = 586.
+4.1.4.2.1 Mountaineer XPress Project                                             Page Number = 142; Y-Value = 493.
+4.1.4.2.2 Gulf XPress Project                                                    Page Number = 142; Y-Value = 386.
+4.1.4.3 Soil Liquefaction                                                        Page Number = 142; Y-Value = 320.
+4.1.4.3.1 Mountaineer XPress Project                                             Page Number = 142; Y-Value = 214.
+4.1.4.3.2 Gulf XPress Project                                                    Page Number = 143; Y-Value = 720.
+4.1.4.4 Landslides                                                               Page Number = 143; Y-Value = 655.
+4.1.4.4.1 Mountaineer XPress Project                                             Page Number = 143; Y-Value = 451.
+4.1.4.4.2 Gulf XPress Project                                                    Page Number = 144; Y-Value = 409.
+4.1.4.5 Steep Slopes                                                             Page Number = 144; Y-Value = 344.
+4.1.4.5.1 Mountaineer XPress Project                                             Page Number = 144; Y-Value = 264.
+4.1.4.5.2 Gulf XPress Project                                                    Page Number = 145; Y-Value = 720.
+4.1.4.6 Mine Subsidence                                                          Page Number = 145; Y-Value = 668.
+4.1.4.6.1 Mountaineer XPress Project                                             Page Number = 145; Y-Value = 589.
+4.1.4.6.2 Gulf XPress Project                                                    Page Number = 145; Y-Value = 155.
+4.1.4.7 Karst Terrain                                                            Page Number = 146; Y-Value = 720.
+4.1.4.7.1 Mountaineer XPress Project                                             Page Number = 146; Y-Value = 333.
+4.1.4.7.2 Gulf XPress Project                                                    Page Number = 146; Y-Value = 185.
+4.1.4.8 Flash Flooding                                                           Page Number = 147; Y-Value = 625.
+4.1.4.8.1 Mountaineer XPress Project                                             Page Number = 147; Y-Value = 532.
+4.1.4.8.2 Gulf XPress Project                                                    Page Number = 147; Y-Value = 370.
+4.1.4.9 Blasting                                                                 Page Number = 147; Y-Value = 222.
+4.1.4.9.1 Mountaineer XPress Project                                             Page Number = 147; Y-Value = 157.
+4.1.4.9.2 Gulf XPress Project                                                    Page Number = 149; Y-Value = 509.
+4.1.5 Conclusion                                                                 Page Number = 149; Y-Value = 225.
+4.1.5.1 Mountaineer XPress Project                                               Page Number = 149; Y-Value = 199.
+4.1.5.2 Gulf XPress Project                                                      Page Number = 150; Y-Value = 625.
+4.2 Soils                                                                        Page Number = 150; Y-Value = 463.
+4.2.1 Soil Disturbance                                                           Page Number = 152; Y-Value = 720.
+4.2.1.1 Mountaineer XPress Project                                               Page Number = 152; Y-Value = 586.
+4.2.1.2 Gulf XPress Project                                                      Page Number = 152; Y-Value = 208.
+4.2.2 Erosion Potential                                                          Page Number = 153; Y-Value = 389.
+4.2.2.1 Mountaineer XPress Project                                               Page Number = 154; Y-Value = 720.
+4.2.2.2 Gulf XPress Project                                                      Page Number = 157; Y-Value = 720.
+4.2.3 Revegetation Potential                                                     Page Number = 159; Y-Value = 720.
+4.2.3.1 Mountaineer XPress Project                                               Page Number = 159; Y-Value = 436.
+4.2.3.2 Gulf XPress Project                                                      Page Number = 160; Y-Value = 599.
+4.2.4 Prime Farmland                                                             Page Number = 160; Y-Value = 194.
+4.2.4.1 Mountaineer XPress Project                                               Page Number = 161; Y-Value = 680.
+4.2.4.2 Gulf XPress Project                                                      Page Number = 161; Y-Value = 505.
+4.2.5 Compaction Potential                                                       Page Number = 161; Y-Value = 412.
+4.2.5.1 Mountaineer XPress Project                                               Page Number = 161; Y-Value = 236.
+4.2.5.2 Gulf XPress Project                                                      Page Number = 162; Y-Value = 720.
+4.2.6 Stony and Rocky Soils                                                      Page Number = 162; Y-Value = 544.
+4.2.6.1 Mountaineer XPress Project                                               Page Number = 162; Y-Value = 396.
+4.2.6.2 Gulf XPress Project                                                      Page Number = 162; Y-Value = 138.
+4.2.7 Depth to Shallow Bedrock                                                   Page Number = 163; Y-Value = 557.
+4.2.7.1 Mountaineer XPress Project                                               Page Number = 163; Y-Value = 437.
+4.2.7.2 Gulf XPress Project                                                      Page Number = 163; Y-Value = 207.
+4.2.8 Hydric Soils                                                               Page Number = 164; Y-Value = 720.
+4.2.8.1 Mountaineer XPress Project                                               Page Number = 164; Y-Value = 560.
+4.2.8.2 Gulf XPress Project                                                      Page Number = 164; Y-Value = 467.
+4.2.9 Topsoil Depth                                                              Page Number = 164; Y-Value = 360.
+4.2.9.1 Mountaineer XPress Project                                               Page Number = 164; Y-Value = 271.
+4.2.9.2 Gulf XPress Project                                                      Page Number = 166; Y-Value = 680.
+4.2.10 Soil and Spill Contamination                                              Page Number = 166; Y-Value = 532.
+4.2.10.1 Mountaineer XPress Project                                              Page Number = 166; Y-Value = 412.
+4.2.10.2 Gulf XPress Project                                                     Page Number = 168; Y-Value = 667.
+4.2.11 Drain Tiles and Irrigation Systems                                        Page Number = 168; Y-Value = 315.
+4.2.11.1 Mountaineer XPress Project                                              Page Number = 168; Y-Value = 236.
+4.2.11.2 Gulf XPress Project                                                     Page Number = 169; Y-Value = 639.
+4.2.12 Conclusion                                                                Page Number = 169; Y-Value = 532.
+4.2.12.1 Mountaineer XPress Project                                              Page Number = 169; Y-Value = 412.
+4.2.12.2 Gulf XPress Project                                                     Page Number = 170; Y-Value = 544.
+4.3 Water Resources                                                              Page Number = 171; Y-Value = 720.
+4.3.1 Groundwater Resources                                                      Page Number = 171; Y-Value = 694.
+4.3.1.1 Aquifers                                                                 Page Number = 171; Y-Value = 668.
+4.3.1.1.1 Mountaineer XPress Project                                             Page Number = 171; Y-Value = 413.
+4.3.1.1.2 Gulf XPress Project                                                    Page Number = 172; Y-Value = 560.
+4.3.1.2 Wellhead and Aquifer Protection Areas                                    Page Number = 173; Y-Value = 372.
+4.3.1.2.1 Mountaineer XPress Project                                             Page Number = 173; Y-Value = 237.
+4.3.1.2.2 Gulf XPress Project                                                    Page Number = 175; Y-Value = 525.
+4.3.1.3 Water Supply Wells and Springs                                           Page Number = 175; Y-Value = 414.
+4.3.1.3.1 Mountaineer XPress Project                                             Page Number = 175; Y-Value = 240.
+4.3.1.3.2 Gulf XPress Project                                                    Page Number = 178; Y-Value = 456.
+4.3.1.4 Contaminated Groundwater                                                 Page Number = 179; Y-Value = 720.
+4.3.1.4.1 Mountaineer XPress Project                                             Page Number = 179; Y-Value = 641.
+4.3.1.4.2 Gulf Xpress Project                                                    Page Number = 179; Y-Value = 398.
+4.3.1.5 Impacts and Mitigation                                                   Page Number = 179; Y-Value = 291.
+4.3.1.5.1 Mountaineer XPress Project                                             Page Number = 179; Y-Value = 170.
+4.3.1.5.2 Gulf XPress Project                                                    Page Number = 182; Y-Value = 720.
+4.3.1.6 Conclusion                                                               Page Number = 183; Y-Value = 477.
+4.3.1.6.1 Mountaineer XPress Project                                             Page Number = 183; Y-Value = 451.
+4.3.1.6.2 Gulf XPress Project                                                    Page Number = 184; Y-Value = 720.
+4.3.2 Surface Water Resources                                                    Page Number = 184; Y-Value = 530.
+4.3.2.1 Public Water Supplies                                                    Page Number = 187; Y-Value = 611.
+4.3.2.1.1 Mountaineer XPress Project                                             Page Number = 187; Y-Value = 586.
+4.3.2.1.2 Gulf XPress Project                                                    Page Number = 187; Y-Value = 410.
+4.3.2.2 State Water Classifications and Designated Waterbodies                   Page Number = 187; Y-Value = 344.
+4.3.2.2.1 Mountaineer XPress Project                                             Page Number = 187; Y-Value = 238.
+Pipeline Facilities                                                              Page Number = 187; Y-Value = 212.
+4.3.2.2.2 Gulf XPress Project                                                    Page Number = 194; Y-Value = 367.
+4.3.2.3 Flood Hazard Zones                                                       Page Number = 194; Y-Value = 301.
+4.3.2.3.1 Mountaineer XPress Project                                             Page Number = 194; Y-Value = 222.
+4.3.2.3.2 Gulf XPress Project                                                    Page Number = 194; Y-Value = 143.
+4.3.2.4 Impacts and Mitigation                                                   Page Number = 195; Y-Value = 720.
+4.3.2.4.1 Mountaineer XPress Project                                             Page Number = 195; Y-Value = 694.
+Dry-Ditch Stream Crossings                                                       Page Number = 195; Y-Value = 412.
+HDD Crossing                                                                     Page Number = 197; Y-Value = 387.
+Open-Cut Crossings                                                               Page Number = 198; Y-Value = 419.
+Blasting                                                                         Page Number = 199; Y-Value = 720.
+Flooding                                                                         Page Number = 199; Y-Value = 572.
+Compressor and Regulator Stations, Tie-ins                                       Page Number = 199; Y-Value = 233.
+Access Roads and Construction Staging Areas                                      Page Number = 200; Y-Value = 517.
+Hazardous Material Spills                                                        Page Number = 200; Y-Value = 246.
+Hydrostatic Testing and Dust Control                                             Page Number = 201; Y-Value = 585.
+4.3.2.4.2 Gulf XPress Project                                                    Page Number = 203; Y-Value = 154.
+Access Roads and Construction Staging Areas                                      Page Number = 207; Y-Value = 720.
+Hazardous Material Spills                                                        Page Number = 207; Y-Value = 451.
+Hydrostatic Testing and Dust Control                                             Page Number = 208; Y-Value = 680.
+4.3.2.5 Conclusion                                                               Page Number = 209; Y-Value = 581.
+4.3.2.5.1 Mountaineer XPress Project                                             Page Number = 209; Y-Value = 555.
+4.3.2.5.2 Gulf XPress Project                                                    Page Number = 209; Y-Value = 270.
+4.4 Wetlands                                                                     Page Number = 210; Y-Value = 680.
+4.4.1 Existing Wetlands                                                          Page Number = 210; Y-Value = 178.
+4.4.1.1 Mountaineer XPress Project                                               Page Number = 210; Y-Value = 152.
+4.4.1.2 Gulf XPress Project                                                      Page Number = 211; Y-Value = 339.
+4.4.2 Wetland Impacts and Mitigation Measures                                    Page Number = 212; Y-Value = 517.
+4.4.2.1 Mountaineer XPress Project                                               Page Number = 212; Y-Value = 491.
+4.4.2.2 Gulf XPress Project                                                      Page Number = 215; Y-Value = 224.
+4.4.3 Compensatory Mitigation                                                    Page Number = 216; Y-Value = 313.
+4.4.3.1 Mountaineer XPress Project                                               Page Number = 217; Y-Value = 532.
+4.4.3.2 Gulf XPress Project                                                      Page Number = 217; Y-Value = 370.
+4.4.4 Conclusion                                                                 Page Number = 217; Y-Value = 291.
+4.4.4.1 Mountaineer XPress Project                                               Page Number = 217; Y-Value = 265.
+4.4.4.2 Gulf XPress Project                                                      Page Number = 217; Y-Value = 172.
+4.5 Vegetation                                                                   Page Number = 218; Y-Value = 720.
+4.5.1 Existing Vegetation Resources                                              Page Number = 218; Y-Value = 694.
+4.5.1.1 Mountaineer XPress Project                                               Page Number = 218; Y-Value = 532.
+4.5.1.1.1 Pipeline Facilities                                                    Page Number = 223; Y-Value = 515.
+4.5.1.1.2 Aboveground Facilities                                                 Page Number = 224; Y-Value = 229.
+4.5.1.1.3 Pipe Yards and Staging Areas                                           Page Number = 225; Y-Value = 613.
+4.5.1.1.4 Access Roads                                                           Page Number = 225; Y-Value = 465.
+4.5.1.2 Gulf XPress Project                                                      Page Number = 225; Y-Value = 113.
+4.5.2 Federal Lands                                                              Page Number = 232; Y-Value = 611.
+4.5.3 State Natural Heritage Communities                                         Page Number = 232; Y-Value = 546.
+4.5.3.1 Mountaineer XPress Project                                               Page Number = 232; Y-Value = 439.
+4.5.3.2 Gulf XPress Project                                                      Page Number = 232; Y-Value = 135.
+4.5.4 Interior Forest Habitat                                                    Page Number = 233; Y-Value = 720.
+4.5.4.1 Mountaineer XPress Project                                               Page Number = 233; Y-Value = 489.
+4.5.4.2 Gulf XPress Project                                                      Page Number = 241; Y-Value = 393.
+4.5.5 Noxious Weeds and Invasive Plant Species                                   Page Number = 241; Y-Value = 287.
+4.5.5.1 Mountaineer XPress Project                                               Page Number = 242; Y-Value = 720.
+4.5.5.2 Gulf XPress Project                                                      Page Number = 244; Y-Value = 545.
+4.5.6 Conclusion                                                                 Page Number = 245; Y-Value = 458.
+4.5.6.1 Mountaineer XPress Project                                               Page Number = 245; Y-Value = 432.
+4.5.6.2 Gulf XPress Project                                                      Page Number = 245; Y-Value = 217.
+4.6 Wildlife and Fisheries                                                       Page Number = 246; Y-Value = 667.
+4.6.1 Existing Wildlife Resources                                                Page Number = 246; Y-Value = 641.
+4.6.1.1 Mountaineer XPress Project                                               Page Number = 246; Y-Value = 615.
+4.6.1.1.1 Pipeline Facilities                                                    Page Number = 246; Y-Value = 331.
+4.6.1.1.2 Aboveground Facilities                                                 Page Number = 248; Y-Value = 517.
+4.6.1.1.3 Pipe Yards and Staging Areas                                           Page Number = 249; Y-Value = 720.
+4.6.1.1.4 Access Roads                                                           Page Number = 249; Y-Value = 586.
+4.6.1.1.5 Other Project Impacts                                                  Page Number = 249; Y-Value = 451.
+4.6.1.2 Gulf XPress Project                                                      Page Number = 249; Y-Value = 141.
+4.6.2 Sensitive or Managed Wildlife Habitats                                     Page Number = 250; Y-Value = 342.
+4.6.2.1 Mountaineer XPress Project                                               Page Number = 250; Y-Value = 316.
+4.6.2.2 Gulf XPress Project                                                      Page Number = 253; Y-Value = 424.
+4.6.3 Migratory Bird Treaty Act and Bald and Golden Eagle Protection Act         Page Number = 253; Y-Value = 358.
+4.6.3.1 Mountaineer XPress Project                                               Page Number = 254; Y-Value = 489.
+4.6.3.2 Gulf XPress Project                                                      Page Number = 259; Y-Value = 449.
+4.6.4 Fisheries and Other Aquatic Resources                                      Page Number = 260; Y-Value = 299.
+4.6.4.1 Mountaineer XPress Project                                               Page Number = 260; Y-Value = 274.
+4.6.4.1.1 Waterbody Crossings                                                    Page Number = 261; Y-Value = 224.
+4.6.4.1.2 Blasting                                                               Page Number = 264; Y-Value = 667.
+4.6.4.1.3 Hydrostatic Test Water                                                 Page Number = 264; Y-Value = 287.
+4.6.4.1.4 Spill Prevention Control and Countermeasures                           Page Number = 265; Y-Value = 412.
+4.6.4.1.5 Fisheries of Special Concern                                           Page Number = 265; Y-Value = 209.
+4.6.4.2 Gulf XPress Project                                                      Page Number = 266; Y-Value = 558.
+4.6.5 Conclusion                                                                 Page Number = 268; Y-Value = 599.
+4.6.5.1 Mountaineer XPress Project                                               Page Number = 268; Y-Value = 574.
+4.6.5.2 Gulf XPress Project                                                      Page Number = 269; Y-Value = 491.
+4.7 Threatened and Endangered, and Other Special Status Species                  Page Number = 269; Y-Value = 289.
+4.7.1 Multi-Species Habitat Conservation Plan                                    Page Number = 271; Y-Value = 613.
+4.7.2 Species Identification                                                     Page Number = 274; Y-Value = 720.
+4.7.3 Federally Listed Species                                                   Page Number = 275; Y-Value = 720.
+4.7.3.1 Mountaineer XPress Project                                               Page Number = 275; Y-Value = 641.
+4.7.3.2 Gulf XPress Project                                                      Page Number = 278; Y-Value = 720.
+4.7.4 Fish                                                                       Page Number = 286; Y-Value = 720.
+4.7.4.1 Mountaineer XPress Project                                               Page Number = 286; Y-Value = 690.
+4.7.4.1.1 Diamond Darter                                                         Page Number = 286; Y-Value = 639.
+4.7.4.2 Gulf XPress Project                                                      Page Number = 287; Y-Value = 720.
+4.7.4.2.1 Spotfin Chub                                                           Page Number = 287; Y-Value = 668.
+4.7.5 Mussels                                                                    Page Number = 287; Y-Value = 534.
+4.7.5.1 Mountaineer XPress Project                                               Page Number = 287; Y-Value = 508.
+4.7.5.1.1 Clubshell                                                              Page Number = 288; Y-Value = 720.
+4.7.5.1.2 Fanshell                                                               Page Number = 288; Y-Value = 272.
+4.7.5.1.3 Northern Riffleshell                                                   Page Number = 289; Y-Value = 639.
+4.7.5.1.4 Pink Mucket                                                            Page Number = 289; Y-Value = 299.
+4.7.5.1.5 Rayed Bean                                                             Page Number = 290; Y-Value = 720.
+4.7.5.1.6 Sheepnose                                                              Page Number = 290; Y-Value = 477.
+4.7.5.1.7 Snuffbox                                                               Page Number = 290; Y-Value = 220.
+4.7.5.1.8 Spectaclecase                                                          Page Number = 291; Y-Value = 473.
+4.7.5.1.9 MXP Conclusion on Special Status Mussel Species                        Page Number = 291; Y-Value = 230.
+4.7.5.2 Gulf XPress Project                                                      Page Number = 292; Y-Value = 639.
+4.7.6 Mammals                                                                    Page Number = 292; Y-Value = 436.
+4.7.6.1 Mountaineer XPress Project                                               Page Number = 292; Y-Value = 410.
+4.7.6.1.1 Gray Bat                                                               Page Number = 293; Y-Value = 720.
+4.7.6.1.2 Indiana Bat                                                            Page Number = 293; Y-Value = 229.
+4.7.6.1.3 Northern Long-eared Bat                                                Page Number = 295; Y-Value = 639.
+4.7.6.1.4 Virginia Big-Eared Bat                                                 Page Number = 296; Y-Value = 503.
+4.7.6.1.5 MXP Conclusion on Special Status Bat Species                           Page Number = 296; Y-Value = 205.
+4.7.6.2 Gulf XPress Project                                                      Page Number = 297; Y-Value = 653.
+4.7.6.2.1 Gray Bat                                                               Page Number = 297; Y-Value = 601.
+4.7.6.2.2 Indiana Bat                                                            Page Number = 297; Y-Value = 439.
+4.7.6.2.3 Northern Long-eared Bat                                                Page Number = 297; Y-Value = 226.
+4.7.6.2.4 Virginia Big-eared Bat                                                 Page Number = 298; Y-Value = 653.
+4.7.7 Insects                                                                    Page Number = 298; Y-Value = 479.
+4.7.7.1 Mountaineer XPress Project                                               Page Number = 298; Y-Value = 453.
+4.7.7.2 Gulf XPress Project                                                      Page Number = 298; Y-Value = 401.
+4.7.7.2.1 Baker Station Cave Beetle                                              Page Number = 298; Y-Value = 350.
+4.7.8 Crustaceans                                                                Page Number = 298; Y-Value = 202.
+4.7.8.1 Mountaineer XPress Project                                               Page Number = 298; Y-Value = 176.
+4.7.8.2 Gulf XPress Project                                                      Page Number = 298; Y-Value = 124.
+4.7.8.2.1 Nashville Crayfish                                                     Page Number = 299; Y-Value = 720.
+4.7.9 Plants                                                                     Page Number = 299; Y-Value = 394.
+4.7.9.1 Mountaineer XPress Project                                               Page Number = 299; Y-Value = 368.
+4.7.9.2 Gulf XPress Project                                                      Page Number = 299; Y-Value = 317.
+4.7.9.2.1 Braun’s Rockcress                                                      Page Number = 299; Y-Value = 265.
+4.7.9.2.2 Guthrie’s Ground-plum                                                  Page Number = 299; Y-Value = 131.
+4.7.9.2.3 Leafy Prairie-clover                                                   Page Number = 300; Y-Value = 625.
+4.7.9.2.4 Price’s Potato-bean                                                    Page Number = 300; Y-Value = 477.
+4.7.9.2.5 Running Buffalo Clover                                                 Page Number = 300; Y-Value = 343.
+4.7.9.2.6 Short’s Bladderpod                                                     Page Number = 300; Y-Value = 194.
+4.7.10 State-listed Species                                                      Page Number = 301; Y-Value = 503.
+4.7.10.1 Mountaineer XPress Project                                              Page Number = 301; Y-Value = 477.
+4.7.10.2 Gulf XPress Project                                                     Page Number = 305; Y-Value = 449.
+4.7.10.2.1 Kentucky                                                              Page Number = 306; Y-Value = 666.
+Amphibians                                                                       Page Number = 306; Y-Value = 449.
+Birds                                                                            Page Number = 306; Y-Value = 314.
+Fish                                                                             Page Number = 307; Y-Value = 720.
+Crustaceans                                                                      Page Number = 307; Y-Value = 530.
+Insects                                                                          Page Number = 307; Y-Value = 424.
+Mammals                                                                          Page Number = 307; Y-Value = 289.
+Mussels                                                                          Page Number = 308; Y-Value = 720.
+Plants                                                                           Page Number = 308; Y-Value = 434.
+Reptiles                                                                         Page Number = 308; Y-Value = 313.
+4.7.10.2.2 Tennessee                                                             Page Number = 308; Y-Value = 220.
+Birds                                                                            Page Number = 309; Y-Value = 625.
+Crustaceans                                                                      Page Number = 309; Y-Value = 436.
+Fish                                                                             Page Number = 309; Y-Value = 191.
+Mussels                                                                          Page Number = 310; Y-Value = 720.
+Plants                                                                           Page Number = 310; Y-Value = 503.
+4.7.10.2.3 Mississippi                                                           Page Number = 310; Y-Value = 355.
+4.7.11 Conclusion                                                                Page Number = 311; Y-Value = 625.
+4.7.11.1 Mountaineer XPress Project                                              Page Number = 311; Y-Value = 599.
+4.7.11.2 Gulf XPress Project                                                     Page Number = 311; Y-Value = 396.
+4.8 Land Use, Recreation, Special Interest Areas, and Visual Resources           Page Number = 312; Y-Value = 720.
+4.8.1 Land Use                                                                   Page Number = 312; Y-Value = 680.
+4.8.1.1 Land Use Types within the Project Areas                                  Page Number = 312; Y-Value = 655.
+4.8.1.1.1 Mountaineer XPress Project                                             Page Number = 312; Y-Value = 629.
+Pipeline Facilities                                                              Page Number = 317; Y-Value = 503.
+Aboveground Facilities                                                           Page Number = 320; Y-Value = 720.
+Access Roads                                                                     Page Number = 321; Y-Value = 343.
+4.8.1.1.2 Gulf XPress Project                                                    Page Number = 322; Y-Value = 720.
+New Aboveground Facilities                                                       Page Number = 324; Y-Value = 584.
+Modifications to Aboveground Facilities                                          Page Number = 324; Y-Value = 205.
+4.8.1.2 Landownership and Easement Requirements                                  Page Number = 325; Y-Value = 720.
+4.8.1.2.1 Mountaineer XPress Project                                             Page Number = 325; Y-Value = 694.
+Pipeline Facilities                                                              Page Number = 325; Y-Value = 668.
+Aboveground Facilities                                                           Page Number = 325; Y-Value = 331.
+4.8.1.2.2 Gulf XPress Project                                                    Page Number = 325; Y-Value = 265.
+4.8.1.3 Existing Residences                                                      Page Number = 325; Y-Value = 145.
+4.8.1.3.1 Mountaineer XPress Project                                             Page Number = 327; Y-Value = 569.
+4.8.1.3.2 Gulf XPress Project                                                    Page Number = 330; Y-Value = 354.
+4.8.1.4 Planned Developments                                                     Page Number = 331; Y-Value = 370.
+4.8.1.4.1 Mountaineer XPress Project                                             Page Number = 331; Y-Value = 344.
+4.8.1.4.2 Gulf XPress Project                                                    Page Number = 331; Y-Value = 210.
+4.8.2 Recreation and Special Interest Areas                                      Page Number = 332; Y-Value = 503.
+4.8.2.1 Federally Managed Land                                                   Page Number = 332; Y-Value = 313.
+4.8.2.1.1 Mountaineer XPress Project                                             Page Number = 332; Y-Value = 287.
+4.8.2.1.2 Gulf XPress Project                                                    Page Number = 332; Y-Value = 236.
+4.8.2.2 State-Managed Land                                                       Page Number = 333; Y-Value = 639.
+4.8.2.2.1 Mountaineer XPress Project                                             Page Number = 333; Y-Value = 560.
+4.8.2.2.2 Gulf XPress Project                                                    Page Number = 336; Y-Value = 256.
+4.8.2.3 Conservation Easements                                                   Page Number = 337; Y-Value = 586.
+4.8.2.3.1 Mountaineer XPress Project                                             Page Number = 337; Y-Value = 506.
+4.8.2.3.2 Gulf XPress Project                                                    Page Number = 337; Y-Value = 193.
+4.8.2.4 Natural, Recreational, or Scenic Rivers and Trails                       Page Number = 338; Y-Value = 720.
+4.8.2.4.1 Mountaineer XPress Project                                             Page Number = 338; Y-Value = 694.
+4.8.2.4.2 Gulf XPress Project                                                    Page Number = 340; Y-Value = 517.
+4.8.3 Visual Resources                                                           Page Number = 340; Y-Value = 451.
+4.8.3.1 Mountaineer XPress Project                                               Page Number = 340; Y-Value = 263.
+4.8.3.1.1 Pipeline Facilities                                                    Page Number = 340; Y-Value = 170.
+4.8.3.1.2 Aboveground Facilities                                                 Page Number = 341; Y-Value = 367.
+4.8.3.2 Gulf XPress Project                                                      Page Number = 342; Y-Value = 260.
+4.8.3.3 Conclusion                                                               Page Number = 344; Y-Value = 408.
+4.8.3.3.1 Mountaineer XPress Project                                             Page Number = 344; Y-Value = 382.
+4.8.3.3.2 Gulf XPress                                                            Page Number = 345; Y-Value = 463.
+4.9 Socioeconomics                                                               Page Number = 345; Y-Value = 167.
+4.9.1 Population and Employment                                                  Page Number = 346; Y-Value = 463.
+4.9.1.1 Mountaineer XPress Project                                               Page Number = 346; Y-Value = 437.
+4.9.1.2 Gulf XPress Project                                                      Page Number = 350; Y-Value = 558.
+4.9.2 Housing                                                                    Page Number = 354; Y-Value = 497.
+4.9.2.1 Mountaineer XPress Project                                               Page Number = 354; Y-Value = 467.
+4.9.2.2 Gulf XPress Project                                                      Page Number = 357; Y-Value = 720.
+4.9.3 Public Services                                                            Page Number = 359; Y-Value = 720.
+4.9.3.1 Mountaineer XPress Project                                               Page Number = 359; Y-Value = 682.
+4.9.3.2 Gulf XPress Project                                                      Page Number = 360; Y-Value = 230.
+4.9.4 Public Utilities and Related Infrastructure                                Page Number = 362; Y-Value = 394.
+4.9.4.1 Mountaineer XPress Project                                               Page Number = 362; Y-Value = 368.
+4.9.4.2 Gulf XPress Project                                                      Page Number = 363; Y-Value = 720.
+4.9.5 Transportation and Traffic                                                 Page Number = 363; Y-Value = 245.
+4.9.5.1 Mountaineer XPress Project                                               Page Number = 363; Y-Value = 220.
+4.9.5.2 Gulf XPress Project                                                      Page Number = 365; Y-Value = 289.
+4.9.6 Roadway and Railroad Crossings                                             Page Number = 368; Y-Value = 367.
+4.9.6.1 Mountaineer XPress Project                                               Page Number = 368; Y-Value = 341.
+4.9.6.2 Gulf XPress Project                                                      Page Number = 369; Y-Value = 573.
+4.9.7 Property Values and Mortgages                                              Page Number = 369; Y-Value = 494.
+4.9.7.1 Mountaineer XPress Project                                               Page Number = 371; Y-Value = 134.
+4.9.7.2 Gulf XPress Project                                                      Page Number = 372; Y-Value = 556.
+4.9.8 Economy and Tax Revenues                                                   Page Number = 372; Y-Value = 436.
+4.9.8.1 Mountaineer XPress Project                                               Page Number = 372; Y-Value = 370.
+4.9.8.2 Gulf XPress Project                                                      Page Number = 373; Y-Value = 166.
+4.9.9 Environmental Justice                                                      Page Number = 375; Y-Value = 720.
+4.9.9.1 Mountaineer XPress Project                                               Page Number = 376; Y-Value = 557.
+4.9.9.2 Gulf XPress Project                                                      Page Number = 380; Y-Value = 680.
+4.9.10 Conclusion                                                                Page Number = 382; Y-Value = 451.
+4.10 Cultural Resources                                                          Page Number = 383; Y-Value = 720.
+4.10.1 Cultural Resources Surveys                                                Page Number = 383; Y-Value = 477.
+4.10.1.1 Mountaineer XPress Project                                              Page Number = 383; Y-Value = 398.
+4.10.1.1.1 Archaeological Resources                                              Page Number = 384; Y-Value = 653.
+4.10.1.1.2 Architectural Resources                                               Page Number = 385; Y-Value = 408.
+4.10.1.2 Gulf XPress Project                                                     Page Number = 386; Y-Value = 599.
+4.10.1.2.1 Archaeological Resources                                              Page Number = 386; Y-Value = 151.
+Kentucky                                                                         Page Number = 386; Y-Value = 125.
+Tennessee                                                                        Page Number = 387; Y-Value = 653.
+Mississippi                                                                      Page Number = 387; Y-Value = 368.
+4.10.1.2.2 Architectural Resources                                               Page Number = 387; Y-Value = 289.
+Kentucky                                                                         Page Number = 387; Y-Value = 263.
+Tennessee                                                                        Page Number = 388; Y-Value = 680.
+Mississippi                                                                      Page Number = 388; Y-Value = 532.
+4.10.2 Native American Consultation                                              Page Number = 388; Y-Value = 425.
+4.10.2.1 Mountaineer XPress Project                                              Page Number = 388; Y-Value = 346.
+4.10.2.2 Gulf XPress Project                                                     Page Number = 389; Y-Value = 530.
+4.10.3 Unanticipated Discovery Plan                                              Page Number = 391; Y-Value = 558.
+4.10.3.1 Mountaineer XPress Project                                              Page Number = 391; Y-Value = 479.
+4.10.3.2 Gulf XPress Project                                                     Page Number = 391; Y-Value = 372.
+4.10.4 Compliance with the National Historic Preservation Act                    Page Number = 391; Y-Value = 251.
+4.10.4.1 Mountaineer XPress Project                                              Page Number = 391; Y-Value = 226.
+4.10.4.2 Gulf XPress Project                                                     Page Number = 392; Y-Value = 375.
+4.10.5 Conclusion                                                                Page Number = 392; Y-Value = 310.
+4.11 Air Quality and Noise                                                       Page Number = 393; Y-Value = 720.
+4.11.1 Air Quality                                                               Page Number = 393; Y-Value = 694.
+4.11.1.1 Air Quality Regulations                                                 Page Number = 394; Y-Value = 611.
+4.11.1.1.1 Federal Regulations                                                   Page Number = 394; Y-Value = 560.
+Prevention of Significant Deterioration                                          Page Number = 394; Y-Value = 494.
+Title V                                                                          Page Number = 394; Y-Value = 332.
+Mandatory Greenhouse Gas Reporting Rule                                          Page Number = 394; Y-Value = 253.
+National Emissions Standards for Hazardous Air Pollutants                        Page Number = 394; Y-Value = 133.
+New Source Performance Standards                                                 Page Number = 395; Y-Value = 639.
+General Conformity                                                               Page Number = 395; Y-Value = 560.
+4.11.1.1.2 State Regulations                                                     Page Number = 395; Y-Value = 263.
+4.11.1.2 Mountaineer XPress Project                                              Page Number = 395; Y-Value = 197.
+4.11.1.2.1 Existing Air Quality                                                  Page Number = 396; Y-Value = 720.
+4.11.1.2.2 Air Permitting and Regulatory Applicability                           Page Number = 396; Y-Value = 234.
+Federal Regulations                                                              Page Number = 396; Y-Value = 183.
+West Virginia Regulations                                                        Page Number = 399; Y-Value = 181.
+4.11.1.2.3 Construction Air Emission Impacts and Mitigation                      Page Number = 400; Y-Value = 170.
+4.11.1.2.4 Operational Air Emission Impacts and Mitigation                       Page Number = 402; Y-Value = 475.
+Operational Air Emissions                                                        Page Number = 402; Y-Value = 449.
+Air Dispersion Modeling                                                          Page Number = 409; Y-Value = 278.
+4.11.1.3 Gulf XPress Project                                                     Page Number = 413; Y-Value = 720.
+4.11.1.3.1  Existing Air Quality                                                 Page Number = 413; Y-Value = 641.
+4.11.1.3.2 Air Permitting and Regulatory Applicability                           Page Number = 413; Y-Value = 441.
+Federal Regulations                                                              Page Number = 413; Y-Value = 389.
+Kentucky, Tennessee, and Mississippi Regulations                                 Page Number = 414; Y-Value = 392.
+4.11.1.3.3 Construction Air Emission Impacts and Mitigation                      Page Number = 415; Y-Value = 161.
+4.11.1.3.4 Operational Air Emission Impacts and Mitigation                       Page Number = 417; Y-Value = 408.
+Operational Air Emissions                                                        Page Number = 417; Y-Value = 382.
+Air Dispersion Modeling                                                          Page Number = 423; Y-Value = 354.
+4.11.1.3.5 Responses to Comments Regarding Air Quality and Health                Page Number = 425; Y-Value = 171.
+4.11.2 Noise                                                                     Page Number = 427; Y-Value = 285.
+4.11.2.1 Noise Environment                                                       Page Number = 427; Y-Value = 259.
+4.11.2.2 Mountaineer XPress Project                                              Page Number = 429; Y-Value = 720.
+4.11.2.2.1 Construction Noise Impacts and Mitigation                             Page Number = 429; Y-Value = 613.
+4.11.2.2.2 Operational Noise Impacts and Mitigation                              Page Number = 431; Y-Value = 245.
+4.11.2.3 Gulf XPress Project                                                     Page Number = 435; Y-Value = 680.
+4.11.2.3.1 Construction Noise Impacts and Mitigation                             Page Number = 435; Y-Value = 491.
+4.11.2.3.2 Operational Noise Impacts and Mitigation                              Page Number = 436; Y-Value = 397.
+4.11.3 Conclusions                                                               Page Number = 439; Y-Value = 680.
+4.11.3.1 Air Quality                                                             Page Number = 439; Y-Value = 655.
+4.11.3.1.1  Mountaineer XPress Project                                           Page Number = 439; Y-Value = 629.
+4.11.3.1.2  Gulf XPress Project                                                  Page Number = 439; Y-Value = 206.
+4.11.3.2 Noise                                                                   Page Number = 440; Y-Value = 572.
+4.12 Reliability and Safety                                                      Page Number = 440; Y-Value = 274.
+4.12.1 Safety Standards                                                          Page Number = 441; Y-Value = 639.
+4.12.2 Pipeline Accident Data                                                    Page Number = 448; Y-Value = 538.
+4.12.3 Impact on Public Safety                                                   Page Number = 450; Y-Value = 263.
+4.12.4 Conclusion                                                                Page Number = 452; Y-Value = 536.
+4.13 Cumulative Impacts                                                          Page Number = 452; Y-Value = 401.
+4.13.1 Projects and Activities Considered                                        Page Number = 452; Y-Value = 375.
+4.13.2 Potential Cumulative Impacts of the Proposed Actions                      Page Number = 465; Y-Value = 720.
+4.13.2.1 Geological Resources                                                    Page Number = 465; Y-Value = 655.
+4.13.2.1.1 Mountaineer XPress Project                                            Page Number = 465; Y-Value = 534.
+4.13.2.1.2 Gulf XPress Project                                                   Page Number = 466; Y-Value = 406.
+4.13.2.2 Soils                                                                   Page Number = 466; Y-Value = 299.
+4.13.2.2.1 Mountaineer XPress Project                                            Page Number = 466; Y-Value = 165.
+4.13.2.2.2 Gulf XPress Project                                                   Page Number = 467; Y-Value = 197.
+4.13.2.3 Water Resources                                                         Page Number = 468; Y-Value = 584.
+4.13.2.3.1 Mountaineer XPress Project                                            Page Number = 468; Y-Value = 436.
+Groundwater                                                                      Page Number = 469; Y-Value = 317.
+Surface Water                                                                    Page Number = 470; Y-Value = 517.
+Wetlands                                                                         Page Number = 471; Y-Value = 720.
+4.13.2.3.2 Gulf XPress Project                                                   Page Number = 471; Y-Value = 368.
+4.13.2.4 Vegetation and Wildlife                                                 Page Number = 471; Y-Value = 289.
+4.13.2.4.1 Mountaineer XPress Project                                            Page Number = 472; Y-Value = 720.
+Vegetation                                                                       Page Number = 472; Y-Value = 223.
+Wildlife                                                                         Page Number = 473; Y-Value = 542.
+4.13.2.4.2 Gulf XPress Project                                                   Page Number = 474; Y-Value = 489.
+4.13.2.5 Threatened and Endangered Species and Other Special Status Species      Page Number = 474; Y-Value = 137.
+4.13.2.5.1 Mountaineer XPress Project                                            Page Number = 475; Y-Value = 448.
+4.13.2.5.2 Gulf XPress Project                                                   Page Number = 476; Y-Value = 489.
+4.13.2.6 Land Use and Special Interest Areas                                     Page Number = 476; Y-Value = 232.
+4.13.2.6.1 Mountaineer XPress Project                                            Page Number = 476; Y-Value = 139.
+4.13.2.6.2 Gulf XPress Project                                                   Page Number = 478; Y-Value = 130.
+4.13.2.7 Visual Resources                                                        Page Number = 479; Y-Value = 625.
+4.13.2.7.1 Mountaineer XPress Project                                            Page Number = 479; Y-Value = 505.
+4.13.2.7.2 Gulf XPress Project                                                   Page Number = 480; Y-Value = 611.
+4.13.2.8 Socioeconomics                                                          Page Number = 480; Y-Value = 178.
+4.13.2.8.1 Mountaineer XPress Project                                            Page Number = 481; Y-Value = 501.
+Employment/Workforce                                                             Page Number = 482; Y-Value = 611.
+Housing                                                                          Page Number = 482; Y-Value = 272.
+Economy and Tax Revenues                                                         Page Number = 483; Y-Value = 667.
+Public Services                                                                  Page Number = 483; Y-Value = 384.
+Transportation                                                                   Page Number = 484; Y-Value = 558.
+4.13.2.8.2 Gulf XPress Project                                                   Page Number = 484; Y-Value = 232.
+Employment/Workforce                                                             Page Number = 485; Y-Value = 447.
+Housing                                                                          Page Number = 485; Y-Value = 271.
+Economy and Tax Revenues                                                         Page Number = 486; Y-Value = 720.
+Public Services                                                                  Page Number = 486; Y-Value = 491.
+Transportation                                                                   Page Number = 486; Y-Value = 343.
+4.13.2.9 Air Quality                                                             Page Number = 486; Y-Value = 181.
+4.13.2.9.1 Mountaineer XPress Project                                            Page Number = 487; Y-Value = 475.
+4.13.2.9.2 Gulf XPress Project                                                   Page Number = 490; Y-Value = 667.
+4.13.2.10 Noise                                                                  Page Number = 490; Y-Value = 218.
+4.13.2.10.1 Mountaineer XPress Project                                           Page Number = 491; Y-Value = 530.
+4.13.2.10.2 Gulf XPress Project                                                  Page Number = 492; Y-Value = 667.
+4.13.2.11 Climate Change                                                         Page Number = 492; Y-Value = 254.
+4.13.3 Conclusion                                                                Page Number = 494; Y-Value = 475.
+5.0 Conclusions and Recommendations                                              Page Number = 495; Y-Value = 720.
+5.1 Conclusions of the Environmental Analysis                                    Page Number = 495; Y-Value = 694.
+5.1.1 Geology                                                                    Page Number = 495; Y-Value = 151.
+5.1.2 Soils                                                                      Page Number = 497; Y-Value = 720.
+5.1.3 Water Resources                                                            Page Number = 497; Y-Value = 232.
+5.1.3.1 Groundwater                                                              Page Number = 497; Y-Value = 206.
+5.1.3.2 Surface Water                                                            Page Number = 499; Y-Value = 515.
+5.1.3.2.1 Surface Water Uses during Construction                                 Page Number = 501; Y-Value = 530.
+5.1.4 Wetlands                                                                   Page Number = 502; Y-Value = 720.
+5.1.5 Vegetation                                                                 Page Number = 503; Y-Value = 503.
+5.1.6 Wildlife and Aquatic Resources                                             Page Number = 505; Y-Value = 720.
+5.1.7 Special Status Species                                                     Page Number = 506; Y-Value = 449.
+5.1.8 Land Use, Recreation, Special Interest Areas, and Visual Resources         Page Number = 509; Y-Value = 720.
+5.1.9 Socioeconomics                                                             Page Number = 512; Y-Value = 341.
+5.1.10 Cultural Resources                                                        Page Number = 513; Y-Value = 368.
+Native American Consultation                                                     Page Number = 515; Y-Value = 491.
+Compliance with NHPA                                                             Page Number = 515; Y-Value = 165.
+5.1.11 Air Quality and Noise                                                     Page Number = 516; Y-Value = 667.
+5.1.11.1 Air Quality                                                             Page Number = 516; Y-Value = 641.
+5.1.11.2 Noise                                                                   Page Number = 517; Y-Value = 720.
+5.1.12 Reliability and Safety                                                    Page Number = 518; Y-Value = 627.
+5.1.13 Cumulative Impacts                                                        Page Number = 518; Y-Value = 262.
+5.1.14 Alternatives                                                              Page Number = 519; Y-Value = 639.
+5.2 FERC Staff’s Recommended Mitigation                                          Page Number = 520; Y-Value = 613.
+To the party letter_MXP_GXP_with mtgs_final.pdf                                  Page Number = Page Number N/A; Y-Value = Y-Value N/A in the Page.
+TO THE PARTY ADDRESSED:                                                          Page Number = 1; Y-Value = 525.
