@@ -35,7 +35,7 @@ MAJOR CONCLUSIONS                                                               
 1.4.2 Gulf XPress Project                                                        Page Number = 56; Y-Value = 639.
 1.5 Permits, Approvals, Consultations, and Regulatory Requirements               Page Number = 56; Y-Value = 436.
 1.5.1 Endangered Species Act                                                     Page Number = 59; Y-Value = 370.
-1.5.2 Migratory Bi2rd Treaty Act                                                  Page Number = 60; Y-Value = 720.
+1.5.2 Migratory Bird Treaty Act                                                  Page Number = 60; Y-Value = 720.
 1.5.3 Rivers and Harbors Act                                                     Page Number = 60; Y-Value = 463.
 1.5.4 Clean Water Act                                                            Page Number = 60; Y-Value = 315.
 1.5.5 Clean Air Act                                                              Page Number = 61; Y-Value = 611.
