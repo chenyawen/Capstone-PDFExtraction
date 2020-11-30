@@ -11,7 +11,8 @@ public class PDFExtraction {
     private static String maxLenStr = "";
 
     public static void main(String[] args) throws Exception {
-        PdfReader reader = new PdfReader("test.pdf");
+        String fileName = "test.pdf";
+        PdfReader reader = new PdfReader(fileName);
         List list = SimpleBookmark.getBookmark(reader);
 
         int maxLenOfTitles = -1;
@@ -26,8 +27,10 @@ public class PDFExtraction {
             showBookmark((Map) i.next());
         }
 
+        String newFileName = fileName.replace(".pdf", ".txt");
+
         try {
-            FileWriter myWriter = new FileWriter("test_output.txt");
+            FileWriter myWriter = new FileWriter(newFileName);
             myWriter.write(output.toCharArray());
             myWriter.close();
             System.out.println("Successfully wrote to the file.");
