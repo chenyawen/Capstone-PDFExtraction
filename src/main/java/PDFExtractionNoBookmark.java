@@ -8,10 +8,15 @@ import java.util.*;
 public class PDFExtractionNoBookmark {
     public static int maxLen = -1;
     private static String output = "";
+    public String fileName;
 
-    public static void main(String[] args) throws Exception {
-        String fileName = "NoBookmark.pdf";
-        PdfReader reader = new PdfReader(fileName);
+    public PDFExtractionNoBookmark(String name) throws Exception {
+        setFileName(name);
+        PDFExtraction(fileName);
+    }
+
+    public void PDFExtraction(String name) throws Exception {
+        PdfReader reader = new PdfReader(name);
         LinkedList<Integer> pagesOfTC = getTCPageNums(reader);
 
         LinkedList<String> tbName = getTCTableTitles(reader, pagesOfTC);
@@ -26,9 +31,9 @@ public class PDFExtractionNoBookmark {
         int index = 0;
 
         for (String title: tbName) {
-            if(! inSet(title.replaceAll("\\s+","").toLowerCase())) {
+            if((! inSet(title.replaceAll("\\s+","").toLowerCase())) && index < tbName.size()) {
                 //System.out.println(title + "\n");
-                //System.out.println(String.format("%-" + maxLen + "." + maxLen + "s %s\n", title, "" + tbNum.get(index)));
+//                System.out.println(String.format("%-" + maxLen + "." + maxLen + "s %s\n", title, "" + tbNum.get(index)));
                 output += String.format("%-" + maxLen + "." + maxLen + "s %s\n", title, "" + tbNum.get(index));
                 index++;
             } else {
@@ -37,7 +42,7 @@ public class PDFExtractionNoBookmark {
             }
         }
 
-        String newFileName = fileName.replace(".pdf", ".txt");
+        String newFileName = name.replace(".pdf", ".txt");
 
         try {
             FileWriter myWriter = new FileWriter(newFileName);
@@ -69,7 +74,7 @@ public class PDFExtractionNoBookmark {
             ArrayList<PdfAnnotation.PdfImportedLink> list = reader.getLinks(pageNum);
 
             for (PdfAnnotation.PdfImportedLink link: list) {
-                //System.out.println(link.toString() + " ");
+                //System.out.print(link.toString() + " ");
                 tbNum.add(link.getDestinationPage());
                 //System.out.println(link.getDestinationPage());
             }
@@ -142,9 +147,9 @@ public class PDFExtractionNoBookmark {
         /* One way to do this is get the information from the pages and adjustment accordingly. Which is not very smart.*/
         for (int i = 1; i < reader.getNumberOfPages(); i++) {
             String content = PdfTextExtractor.getTextFromPage(reader, i);
-//            if(i == 156) {
+//            if(i == 5) {
 //                System.out.println(content);
-//                System.out.println(content.indexOf("          "));
+////                System.out.println(content.indexOf("          "));
 //            }
 
             if (content.indexOf("          ") > 0 || content.indexOf(".....") > 0) {
@@ -193,5 +198,22 @@ public class PDFExtractionNoBookmark {
             }
         }
         return false;
+    }
+
+
+    public boolean verify() throws Exception {
+        PdfReader reader = new PdfReader(fileName);
+        LinkedList<Integer> pagesOfTC = getTCPageNums(reader);
+
+        LinkedList<String> tbName = getTCTableTitles(reader, pagesOfTC);
+
+        if (tbName != null)
+            return true;
+        else
+            return false;
+    }
+
+    private void setFileName(String name) {
+        this.fileName = name;
     }
 }
