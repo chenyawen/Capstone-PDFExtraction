@@ -30,29 +30,41 @@ public class PDFExtractionNoBookmark {
 
         int index = 0;
 
-        for (String title: tbName) {
-            if((! inSet(title.replaceAll("\\s+","").toLowerCase())) && index < tbName.size()) {
-                //System.out.println(title + "\n");
+        if (Math.max(tbName.size(), tbNum.size()) - Math.min(tbName.size(), tbNum.size()) <= 5){
+            for (String title: tbName) {
+                if((! inSet(title.replaceAll("\\s+","").toLowerCase())) && index < tbName.size()) {
+                    //System.out.println(title + "\n");
 //                System.out.println(String.format("%-" + maxLen + "." + maxLen + "s %s\n", title, "" + tbNum.get(index)));
-                output += String.format("%-" + maxLen + "." + maxLen + "s %s\n", title, "" + tbNum.get(index));
-                index++;
-            } else {
-                //System.out.println(title + "\n");
-                output += title + "\n";
+                    output += String.format("%-" + maxLen + "." + maxLen + "s %s\n", title, "" + tbNum.get(index));
+                    index++;
+                } else {//if (new PDFExtractionNoBookmarkNoLink(fileName).verify()){
+                    //System.out.println(title + "\n");
+                    output += title + "\n";
+                }
             }
+
+            String newFileName = name.replace(".pdf", ".txt");
+
+            try {
+                FileWriter myWriter = new FileWriter(newFileName);
+                myWriter.write(output.toCharArray());
+                myWriter.close();
+                System.out.println("Successfully wrote to the file.");
+            } catch (IOException e) {
+                System.out.println("An error occurred.");
+                e.printStackTrace();
+            }
+        } else {
+
+            output = "ERROR: The difference between the table of contents titles and page numbers is\n" +
+                    "greater than thread value. Please print \"tbName\" and \"tbNum\" for detailed information.\n\n" +
+                    "!!Please check the suggested make-up .txt file - NoBookmarkNoLink_" + name.replace(".pdf", ".txt") + ".\n\n";
+
+            System.out.println(output);
+
+            new PDFExtractionNoBookmarkNoLink(name);
         }
 
-        String newFileName = name.replace(".pdf", ".txt");
-
-        try {
-            FileWriter myWriter = new FileWriter(newFileName);
-            myWriter.write(output.toCharArray());
-            myWriter.close();
-            System.out.println("Successfully wrote to the file.");
-        } catch (IOException e) {
-            System.out.println("An error occurred.");
-            e.printStackTrace();
-        }
     }
 
     private static boolean inSet(String title) {
@@ -199,7 +211,6 @@ public class PDFExtractionNoBookmark {
         }
         return false;
     }
-
 
     public boolean verify() throws Exception {
         PdfReader reader = new PdfReader(fileName);

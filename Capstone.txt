@@ -1,0 +1,101 @@
+1. Sign in to UA Handshake to start your application
+2. In "Career Center" choose "Experiences" from the drop-down menu
+3. Select "Request an Experience"
+	M.S. Capstone Students only: select University of Arizona INFO Graduate Capstone request (approved Capstones only) (INFO 698)
+
+
+Steven Bethard
+Associate Professor
+Advisor, M.S. Information
+Harvill 445C
+520-621-5223
+bethard@arizona.edu
+
+
+INFO 524: Virtual Reality, Spring 2019
+MIS 515: Info Sec Publ+Priv Sect, Spring 2019
+INFO 505: Foundations of Information, Fall 2019
+INFO 515: Organization/Information, Fall 2019
+INFO 523: Data Mining/Discovery, Fall 2019
+INFO 575: User Interf+Website Dsgn, Fall 2019
+INFO 692: Directed Research, Fall 2019
+INFO 507: Information Research Methods, Spring 2020
+
+
+* How many contact hours per week do you expect to have with your supervisor?
+1 hour
+
+* Title of the project
+PDF Components Extraction
+
+* Introduction/Background (why this project is worth doing, what problems it will tackle)
+Hurricanes inundating low-income neighborhoods. Air and noise pollution delaying learning in children. Raging wildfires displacing communities. These are wicked problems—challenges that span jurisdictions and disciplines; have multiple, complex causes; and undergo rapid change with high uncertainty (Rittel & Webber 1973). The grand challenge of our era is to develop institutional and governance advances to address wicked problems. Governance solutions to this challenge must be flexible and accommodate a wide expanse of problems. They must integrate scientific information about causes, consequences, and uncertainties, with social and political information about public values, concerns, and needs. In the United States, one such governance tool already exists—the National Environmental Policy Act. Almost 50 years ago in an act of foresight and wisdom, a near-unanimous US Congress passed NEPA. NEPA is elegant in the simplicity of its vision—that science results in more informed decisions, and that a democratic process that engages the public results in better environmental and social outcomes. Tens of thousands of major environmental decisions later, it is clear that NEPA was ahead of its time—but because data science did not yet exist 50 years ago, we have yet to exploit NEPA’s full potential. Congress did not mandate the organized storage of the scientific data NEPA generates, nor the evaluation of its outcomes or of the public engagement processes it requires. There is, therefore, a critical need to bring NEPA into the 21st century, harness the power of data science and enable the full vision of NEPA as a strategy to deal with wicked problems. We need to systematically learn from the NEPA process, and make it more efficient, effective, and equitable so future citizens experience NEPA’s ambition of “harmony between man and his environment.”
+
+The heart of NEPA is the environmental impact statement (EIS), a detailed, scientific analysis of the expected impacts of federal actions (plans, projects, and activities) and an assessment of possible alternative actions. EISs are developed by the federal government with extensive contribution from the public through participation in determining the scope and commenting on draft documents. Since 1970, some 37,000 EISs have analyzed the impacts of federal actions such as construction of transportation infrastructure; permit approvals for oil, gas, and mineral extraction; management of public lands; and proposed regulations. These documents provide a substantial spatial and temporal record of environmental and social change across the US, including trends in ecosystem function, air quality, water quality, and land use. Since its passage, NEPA has generated reams of scientific data, entailing billions of dollars spent and countless hours of work. There is no central database for this information and it is too voluminous to assess manually. As a result, scientists are able only to support decision-making about specific actions and to assess the outcomes only of specific projects. But systematic analysis across projects is stymied.
+
+Thus, to help our team analysis the data and components more efficient, we decide to develop a project to extract come of the components from the PDF files.
+
+* Proposed Method
+Some existing Java libraries such as "iText", "Apache PDFBox" etc.
+More methods will be added when necessary when I have deeper understand of the project.
+
+* Data
+The data for this project will be from the data collection agent. Most of the data are listed in the websites of the environment department of the government. 
+
+* Expected Results/Deliverables (must name a repository where you will deposit your code)
+Expected Results: Can extract the table of contains successfully from the provided PDF document.
+Deliverables: An API to extract the table of contents from the PDF document.
+
+* Risks, if Any (what could go wrong and if it did, what is your plan to overcome/workaround the difficulties)
+Some of the libraries that we decided to use in the beginning may not work, and we will need to adjust our approaches when we implement the project.
+
+* Summarize your schedule of planned activities, week by week.
+
+Week 1-3: Understand the basic requirements of the project and write the design doc from the API. Get team signed off.
+Week 4-8: After the design doc gets approved, start implementing the API.
+Week 9-11: Test the API works as expect, and adjust the code accordingly when errors happen.
+Week 12-14: Finish the project and deliver the final projects to the team.
+
+* Explain how the project addressees competency C1.A: Decomposition: Students will be able to break down a complex problem or system into smaller, more solvable problems.
+The supervisor provides me a task on a large scale, as well as clear goals. With the provided information, I am able to discuss with teammates to decide the details implementations about how we want to achieve certain goals and its related timeline. With the timeline decided by us, I am able to break down a complex problem or system into smaller, more solvable problems to fulfill my expectations. 
+
+* Explain how the project addressees competency C1.B: Pattern recognition: Students will be trained to look for similarities among and within problems.
+With the provided project, I need to go through the PDF formats to see the certain style of PDF itself and the style of the need components. With the task, I have the opportunity to look for similarities among and within problems and design the APIs to extract the components that share the similarities from the PDF documents.
+
+* Explain how the project addressees competency C1.C: Abstraction: Students will gain the ability of recognizing and focusing on the essential components of a problem/issue while ignoring distracting peripheral factors in order to develop one solution that works for a class of problems.
+With the given scopes, I can build the timeline to achieve the goal. I have the ability to just focus on the essential components for my project, and I will not need to worry about other steps to achieve the final goal of the whole program, with these conditions, I can develop one solution that works for a class of problems.
+
+* Explain how the project addressees competency C1.D: Algorithms: Students will be able to design and implement a step-by-step solution to a problem, including design and implement a computer algorithm using a computer language to solve a problem.
+As I mentioned above, The supervisor provides me a task on a large scale, as well as clear goals. The supervisor did not provide a specific solution to solve the concerns. Thus, I have the flexibility to design the timeline to implement a step-by-step solution. In addition, I will have the opportunity to pick the efficient algorithm and use a computer language to solve the problem.
+
+* Explain how the project addressees competency C1.E: Students will demonstrate fluency in at least one programming language.
+With more exercise to develop the functions in Java and debug when errors happen, my Java coding skills will be improved for sure.
+
+* Explain how the project addressees competency C2.A: Students will be able to identify specific types of data for different analytical methods.
+At this point, no one can promise a specific method to solve all the concerns that we have in the project. Thus even though the data type kind of solid, we will need to try different analytical methods to accomplish our goals. Thus, by finishing the project, I think I can improve my skill to identify specific types of data for different analytical methods.
+
+* Explain how the project addressees competency C2.B: Students will be able to use/develop efficient computational methods to clean, format, transfer, and store data.
+The purpose of this project is to clean, format, transfer, and store data efficiently from the PDF documents. Thus, my goal for this project is to develop the efficient computational methods to fulfill our needs in the project.
+
+* Explain how the project addressees competency C2.C: Students will be able to apply appropriate statistical, machine learning, visual analytics, and other techniques to identify patterns and make sound predictions with given data.
+We may need to use some of the machine learning techniques to achieve the goals. When the API is done, it should be able to extract the data out of the PDF document as needed.
+
+* Explain how the project addressees competency C2.D: Students will be able to develop methods to align and integrate data from multiple sources.
+Even though the basic format of the PDF should be similar, however each document will be slightly different from each other. Thus, the API should be able to integrate data from multiple sources.
+
+
+* Explain how the project addressees competency C2.E: Students will understand the ethical and legal requirements of data privacy and security.
+Since some of the data are from government, even though the data is open to public, there are still some ethical and legal requirements of data privacy and security. With the instructions from supervisor, I think we will handle this well.
+
+
+* Explain how the project addressees competency C3.A: Students will acquire experience working in an interdisciplinary team, either as a productive team member or a team leader. Students will become effective project managers.
+Since I am not the only person in the project, and we have other teammates work on other parts of the project. Not all the teammates are working with a technical background, I will have the opportunity to working in an interdisciplinary team. Since I need to manage my timelines, I will have the opportunity to try the role as project manager.
+
+* Explain how the project addressees competency C3.B: Students will be able to effectively articulate various evidence supporting a solution and to communicate the results of their work, using appropriate graphics, visualizations, multi-media vehicles, or artistic performance.
+By analysis the goal of the project, we can clearly show the final deliverables with appropriate graphics, visualizations, multi-media vehicles, and artistic performance. At the end of the project, I should be able to demo the functions with correct API.
+
+* Explain how the project addressees competency C4: Creative contributions: Through experiential learning, students will know how to conduct original and innovative work, involving computational thinking, data-intensive methodologies, and/or human-centered designs that will extend the body of knowledge in the field of Information.
+By doing this project, I think I will be able to know how to conduct original and innovative work. I will need to have the human-centered designs in mind to make the API friendly for the future users. In addition, I will be able to improve my computational thinking to make the detect methods/algorithm more efficient, and pick the correct decisions in the end.
+
+* Explain how the project addressees competency C5: Ethics and Values: Students will demonstrate an understanding of information/data ethics, and the values of the information fields to serve diverse user groups.
+As I mentioned above, some of the data are from the government, even though it is open to the public, we may still be able to find useful information from it. Thus, we should just focus on the part that we are woking on, and keep the data as private as needed. With the future training to handle the data properly, I think I can improve my understanding of information/data ethics, and the values of the information fields to serve diverse user groups.

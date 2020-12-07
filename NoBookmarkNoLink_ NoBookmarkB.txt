@@ -1,0 +1,186 @@
+TABLE OF CONTENTS 
+Executive Summary  .......................................................................................................................1 
+Chapter 1  – Introduction........................................................................................................... 27
+1.1  Proposed Action......................................................................................................... 27
+1.2  Background  ................................................................................................................ 27
+1.3  Purpose and Need  ...................................................................................................... 27
+1.4  Decisions to Be Made  ................................................................................................ 28
+1.5  Planning Criteria  ........................................................................................................ 29
+1.6  Description of the Planning Area  .............................................................................. 29
+1.7  Planning Process  ........................................................................................................ 30
+1.8  Planning Issues  .......................................................................................................... 32
+1.9  Collaboration ............................................................................................................. 32
+1.10  Public Review and Comments ................................................................................... 34
+1.11  Changes  from the Draft  RMP Amendment/SEIS  ...................................................... 34
+1.12  Policy  ......................................................................................................................... 35
+Chapter 2 – Alternatives  ........................................................................................................... 39
+2.1 	 Introduction................................................................................................................ 39
+2.2 	 Decisions from the Approved Cottonwood ROD/RMP with Bearing on the 
+Alternatives  ................................................................................................................ 39
+2.3 	 Descriptions of the Alternatives  ................................................................................ 40
+2.3.1 	 Common to All Alternatives  .......................................................................... 40
+2.3.2 	 Alternative  A – No  Action Alternative  .......................................................... 41
+2.3.3 	 Alternative  B – Proposed Amendment  .......................................................... 41
+2.3.4 	 Alternative  C – Eliminate Domestic Sheep and  Goat Grazing  ...................... 42
+2.3.5 	 Alternative  D – Restrict  Grazing on Partridge Creek and Hard Creek  .......... 42
+2.3.6 	 Alternative  E – Restrict  Grazing on Partridge Creek Only ............................ 42
+2.3.7 	 Alternative  F – Restrict  Grazing on Partridge Creek and Marshall
+Mountain ........................................................................................................ 43
+2.3.8 	 Summary of Alternatives  ............................................................................... 43
+2.4  Alternatives Considered  but Eliminated from Detailed Study  .................................. 44
+2.4.1 	 Alternative G  – 9-mile Buffer  ........................................................................ 44
+2.4.2 	 Alternative H  – 1-mile Source Habitat Buffer  ............................................... 44
+2.4.3 	 Alternative I  – 20-mile Buffer  ....................................................................... 44
+2.4.4 	 Alternative J  – Geographic Boundaries  ......................................................... 45
+2.4.5 	 Alternative K  – Designate Bighorn  as a BLM Sensitive Species  .................. 45
+2.4.6 	 Alternative L  – Allow Domestic Sheep and Goat  Grazing on All
+Allotments with Leasing  Terms and Conditions to Reduce Potential 
+Interspecies Contact  ....................................................................................... 45
+2.4.7 	 Alternative M  - No Net  Loss of Domestic Sheep Grazing AUMs. ............... 46
+2.4.8 	 Alternative N  – Zoning .................................................................................. 46
+2.4.9 	 Alternative O  – Close All Four Allotments to All Types of  Livestock 
+Grazing. ..........................................................................................................  46
+
+TABLE OF CONTENTS 
+2.5  Summary Comparison of  Impacts  .............................................................................  47
+2.6  Rationale for the  Identification of the Proposed RMP Amendment........................ 2-12 
+Chapter 3  – Affected Environment  .......................................................................................... 53
+3.1  Introduction................................................................................................................ 53
+3.2  Bighorn Sheep  ........................................................................................................... 53
+3.2.1  Background  .................................................................................................... 53
+3.2.2  Existing Conditions ........................................................................................ 54
+3.3  Native American Tribal  Uses  .................................................................................. 76
+3.3.1  Background  .................................................................................................. 76
+3.3.2  Existing Conditions ...................................................................................... 77
+3.4  Livestock Grazing a nd Social and Economic Conditions  ....................................... 79
+3.4.1  Background  .................................................................................................. 79
+3.4.2  Existing Conditions ...................................................................................... 81
+Chapter 4  – Environmental Consequences.............................................................................. 99
+4.1  Introduction................................................................................................................ 99
+4.1.1  Analytical Assumptions  ................................................................................. 99
+4.2  Bighorn Sheep  ........................................................................................................... 100
+4.2.1  Overview  ........................................................................................................ 100
+4.2.2  Methods of Analysis  ...................................................................................... 101
+4.2.3  Effects of  Alternatives  ................................................................................... 104
+4.2.4  Cumulative Effects....................................................................................... 114
+4.3  Native American Tribal  Uses  .................................................................................. 117
+4.3.1  Overview  ...................................................................................................... 117
+4.3.2  Methods of Analysis  .................................................................................... 117
+4.3.3  Effects of  Alternatives  ................................................................................. 118
+4.3.4  Cumulative Effects....................................................................................... 120
+4.4  Livestock Grazing a nd Social and Economic Conditions  ....................................... 120
+4.4.1  Overview  ...................................................................................................... 120
+4.4.2  Methods of Analysis  .................................................................................... 120
+4.4.3  Effects of  Alternatives  ................................................................................. 123
+4.4.4  Cumulative Effects....................................................................................... 136
+4.5  Irretrievable or  Irreversible Commitment of Resources  .......................................... 138
+List of Preparers  ........................................................................................................................ 99
+Glossary  ..........................................................................................................................................1 
+References  .......................................................................................................................................1 
+Appendix A  –  Disease Transmission between Domestic Sheep and Bighorn Sheep........... 165
+Appendix B  –  Model Analysis Details  ......................................................................................179
+Appendix C  –  Domestic Sheep and Goats Grazing Lease Terms and Conditions.............. 195
+Appendix D  –  Maps  ..................................................................................................................  D-1
+
+TABLE OF CONTENTS 
+Appendix E  –  Response to Public Comments on the Draft RMP/SEIS  ................................215
+LIST OF FIGURES  
+Figure  1-1:  Steps for the Preparation of an RMP  .....................................................................  31
+Figure 3-1:  Population Trends for Bighorn Sheep by Herd in Hells Canyon (Source:
+WDFW, ODFW, and IDFG bighorn sheep population census data; 1970 ­ 
+2012) .................................................................................................................... 62
+Figure 3-2:  Population Trends for Bighorn Sheep in Idaho Big Game Management
+Units that Overlap the Main Salmon/South Local  Population Analysis Area  
+(Source:  IDFG bighorn sheep population census data; 1981 - 2013)  ................. 63
+Figure 3-3:  Impact Area Counties and Component Census County Divisions  ...................... 86
+Figure 3-4:  Impact Area Employment Distribution (IMPLAN  2010)  ................................... 89
+Figure 3-5:  Services and Non-services Employment History (U.S. Department of 
+Commerce, Census Bureau 2011)  ...................................................................... 91
+Figure  B-1:  Maximum Distance of Ram Summer Forays beyond the CHHR  .........................185
+Figure  B-2:  Proportion of Ram Summer Forays Reaching Each Ring .....................................186
+Figure  B-3:  Maximum Distance of Ram Winter Forays beyond the CHHR ............................186
+Figure  B-4:  Proportion of Ram Winter Forays Reaching  Each Ring  .......................................187
+Figure  B-5:  Visualization of Foray Probabilities for the Upper  Hells Canyon Herd  .............189
+LIST OF TABLES  
+Table  ES-1:
+  Allotment Availability  for Domestic Sheep and  Goat Grazing by  Alternative  ........2 
+Table  ES-2:
+  Acres Available for Domestic Sheep and Goats by Alternative  ...............................2 
+Table  ES-3:
+  Animal Unit Months Available for Domestic Sheep and Goats by 
+Alternative  .................................................................................................................2 
+Table  ES-4:
+  Allotments with Sheep Grazing  ................................................................................7 
+Table  ES-5:
+  Comparative Summary of  Impacts from the  Alternatives .........................................9 
+Table  2-1:
+  Livestock  Grazing  Allocations Common to All Alternatives  ...............................  40
+Table 2-2:
+  Alternative  B Allocations Available for  Domestic Sheep Grazing ....................... 42
+Table 2-3:
+  Alternative  D Allocations Available for  Domestic Sheep Grazing  ...................... 42
+Table 2-4:
+  Alternative  E Allocations Available for  Domestic  Sheep Grazing  ....................... 43
+Table 2-5:
+  Alternative  F  Allocations Available for  Domestic  Sheep Grazing  ....................... 43
+Table 2-6:
+  Acres Available for Domestic Sheep by Alternative  ............................................ 43
+Table  2-7:
+  Animal Unit Months Available for Domestic Sheep by  Alternative  ....................  43
+
+LIST OF TABLES 
+Table 2-8:  Comparative Summary of  Impacts from the  Alternatives ...................................  49
+Table 3-1:  Allotment Summary of Bighorn Sheep Source Habitats and BLM  Lands
+Leased for Domestic Sheep Grazing Season of Use Overlap of Source  
+Habitats ................................................................................................................ 65
+Table 3-2:  Summer and Winter Core Herd  Home Ranges  and Domestic Sheep
+Allotments  ........................................................................................................... 67
+Table 3-3:  Allotment Distances (Miles) from Core  Herd  Home Ranges and  Little 
+1, 2 
+Salmon Area of Concern  ................................................................................ 68
+Table 3-4:  Allotments with Sheep Grazing  .......................................................................... 81
+Table 3-5:  Population Change  .............................................................................................. 87
+Table 3-6:  Racial and Hispanic Composition of 2010 Population (in percentages)  ............. 87
+Table 3-7:  Sheep and Lamb Inventory  and Estimated Annual  Forage Requirement  ........... 95
+Table 4-1:  Habitats and Core Herd  Home Range Available for Domestic Sheep
+Grazing under Alternative A  ................................................................................. 104
+Table 4-2:  Model Results and Predicted Effects on Individual Herds from
+Alternative A  ......................................................................................................... 104
+Table 4-3:  Habitats and Core Herd  Home Range Available for Domestic Sheep
+Grazing under Alternative B  ................................................................................. 106
+Table 4-4:   Model Results and Predicted Effects on Individual Herds from Alternative  B  .... 106
+Table 4-5:  Habitats and Core Herd  Home Range Available for Domestic Sheep
+Grazing under Alternative D  ............................................................................... 108
+Table 4-6:   Model Results and Predicted Effects on Individual Herds from
+Alternative D  ....................................................................................................... 108
+Table 4-7:  Habitats and Core Herd  Home Range Available for Domestic Sheep
+Grazing under Alternative E ................................................................................ 109
+Table 4-8:  Model Results and Predicted Effects on Individual Herds from Alternative  E  .. 110
+Table 4-9:  Habitats and Core Herd  Home Range Available for Domestic Sheep
+Grazing under Alternative F  ................................................................................ 111
+Table 4-10:  Model Results and Predicted Effects on Individual Herds from Alternative  F ... 111
+Table 4-11:  Source Habitat and Core Herd Home Range Available for Domestic Sheep
+Grazing by Alternative  ........................................................................................ 113
+Table 4-12:  Distance between Herd  Core Herd  Home Range,  Little Salmon Area of
+Concern, and BLM  Lands Available for  Domestic Sheep Grazing by  
+Alternative  ........................................................................................................... 113
+Table 4-13:  Comparison of Alternatives Based on Annual Modeled Contacts between 
+Bighorn Sheep and Domestic Sheep Allotments  ................................................ 113
+Table 4-14:  Modeled Contact Rates between Bighorn Sheep and Domestic Sheep 
+Allotments and Total Cumulative Effects from Adjacent  Land Ownerships  ..... 115
+Table 4-15:  Bighorn Sheep Main Salmon/South Fork CHHRs Overlap with BLM
+Domestic Sheep Allotments and Total Cumulative Overlap from Adjacent  
+Land Ownerships ................................................................................................. 116
+Table 4-16:  Measures and Analysis Methods  ......................................................................... 121
+Table 4-17:  Alternative  A –  Continue Use of Domestic Sheep Allotments  ...........................  123
+
+LIST OF TABLES 
+Table 4-18:  Effects on Local Employment and Income  from Sheep Grazing by  
+Alternative  ........................................................................................................... 124
+Table 4-19:  Expenditures per Visit by  Activity and Trip Type  .............................................. 125
+Table 4-20:  Employment and Labor  Income Response Coefficients by Activity Type  ......... 126
+Table 4-21:  Alternative  B – Domestic Sheep Acreage and Forage Allocations ..................... 127
+Table 4-22:  Alternative  C – Domestic Sheep Acreage and  Forage Allocations ..................... 130
+Table 4-23:  Alternative  D – Domestic Sheep Acreage and  Forage Allocations  .................... 131
+Table 4-24:  Alternative  E – Domestic S heep  Acreage and Forage Allocations  ..................... 133
+Table 4-25:  Alternative  F – Domestic S heep  Acreage and Forage Allocations  ..................... 134
