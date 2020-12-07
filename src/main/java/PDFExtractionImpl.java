@@ -7,6 +7,7 @@ import java.io.IOException;
 public class PDFExtractionImpl implements PDFExtraction{
     @Override
     public void readFile(String fileName) throws Exception {
+        //Maybe we will need to think about the size limitation or we need pause time to make sure the large file will be fully loaded.
         PdfReader reader = new PdfReader(fileName);
 
         if (SimpleBookmark.getBookmark(reader) != null) {

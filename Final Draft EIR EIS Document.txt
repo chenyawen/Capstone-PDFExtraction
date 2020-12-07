@@ -1,0 +1,645 @@
+TITLE PAGE                                                                                                                                         Page Number = 1; Y-Value = .
+CONTENTS                                                                                                                                           Page Number = 3; Y-Value = .
+Figures                                                                                                                                            Page Number = 7; Y-Value = .
+Tables                                                                                                                                             Page Number = 8; Y-Value = .
+ACRONYMS/ABBREVIATIONS                                                                                                                             Page Number = 11; Y-Value = 714.
+SUMMARY                                                                                                                                            Page Number = 15; Y-Value = 639.
+S.1 Overview of Project Area                                                                                                                       Page Number = 15; Y-Value = 300.
+S.2 Purpose and Need/Project Objectives                                                                                                            Page Number = 15; Y-Value = 177.
+Need                                                                                                                                               Page Number = 15; Y-Value = 146.
+Purpose                                                                                                                                            Page Number = 17; Y-Value = 644.
+Project Objectives                                                                                                                                 Page Number = 17; Y-Value = 531.
+S.3 Scoping and Outreach                                                                                                                           Page Number = 17; Y-Value = 341.
+S.4 Project Background                                                                                                                             Page Number = 18; Y-Value = 502.
+S.5 Alternatives Considered                                                                                                                        Page Number = 19; Y-Value = 720.
+Proposed Alignment Alternative 1                                                                                                                   Page Number = 19; Y-Value = 443.
+Proposed Alignment Alternative 2                                                                                                                   Page Number = 19; Y-Value = 169.
+Proposed Alignment Alternative 3                                                                                                                   Page Number = 20; Y-Value = 630.
+No Action – No Project Alternative                                                                                                                 Page Number = 20; Y-Value = 491.
+Additional Project Infrastructure                                                                                                                  Page Number = 20; Y-Value = 365.
+Metering Station                                                                                                                                   Page Number = 20; Y-Value = 306.
+Potential Disinfection Facility                                                                                                                    Page Number = 20; Y-Value = 195.
+Outfall Structure for Non-Specification Potable Water                                                                                              Page Number = 23; Y-Value = 720.
+Potential Pump Station                                                                                                                             Page Number = 23; Y-Value = 556.
+S.6 Environmental Effects/Consequences                                                                                                             Page Number = 23; Y-Value = 389.
+Significant and Unavoidable Project Impacts                                                                                                        Page Number = 23; Y-Value = 219.
+Direct Project Impacts and Mitigation                                                                                                              Page Number = 27; Y-Value = 711.
+Biological Resources                                                                                                                               Page Number = 27; Y-Value = 518.
+Cultural and Paleontological Resources                                                                                                             Page Number = 27; Y-Value = 421.
+Hazards and Hazardous Materials                                                                                                                    Page Number = 27; Y-Value = 351.
+Cumulative Project Effects and Mitigation                                                                                                          Page Number = 27; Y-Value = 267.
+S.7 Potentially Required Federal, State, and Local Actions, Permits, or Entitlements                                                               Page Number = 28; Y-Value = 681.
+Permits and Approvals                                                                                                                              Page Number = 28; Y-Value = 628.
+Presidential Permit                                                                                                                                Page Number = 29; Y-Value = 720.
+Chapter 1 INTRODUCTION/PURPOSE AND NEED                                                                                                            Page Number = 31; Y-Value = 630.
+1.1 Introduction                                                                                                                                   Page Number = 31; Y-Value = 599.
+1.2 Background                                                                                                                                     Page Number = 31; Y-Value = 223.
+1.2.1 Otay Water District Water Resources Master Plan                                                                                              Page Number = 31; Y-Value = 189.
+1.2.2 Rosarito Seawater Desalination Facility                                                                                                      Page Number = 32; Y-Value = 483.
+1.3 Lead Agencies                                                                                                                                  Page Number = 35; Y-Value = 717.
+1.4 Purpose and Need/Project Objectives                                                                                                            Page Number = 35; Y-Value = 566.
+Need                                                                                                                                               Page Number = 35; Y-Value = 535.
+Purpose                                                                                                                                            Page Number = 35; Y-Value = 396.
+CEQA Project Objectives                                                                                                                            Page Number = 35; Y-Value = 283.
+1.5 Intended Use of the EIR/EIS                                                                                                                    Page Number = 36; Y-Value = 720.
+1.6 Draft EIR/EIS Preparation                                                                                                                      Page Number = 36; Y-Value = 583.
+1.6.1 CEQA/NEPA Regulations                                                                                                                        Page Number = 36; Y-Value = 499.
+1.6.2 Scoping                                                                                                                                      Page Number = 36; Y-Value = 147.
+1.6.3 Draft EIR/EIS Public Review, Agency, and Public Participation                                                                                Page Number = 37; Y-Value = 448.
+1.6.4 Prior Environmental Evaluations and Support Documents                                                                                        Page Number = 38; Y-Value = 566.
+Environmental Evaluations                                                                                                                          Page Number = 38; Y-Value = 518.
+Support Documents                                                                                                                                  Page Number = 38; Y-Value = 354.
+1.6.5 Environmental Review of the Mexican Facilities for the Project                                                                               Page Number = 39; Y-Value = 720.
+1.7 Required Permits and Approvals                                                                                                                 Page Number = 39; Y-Value = 394.
+1.7.1 Presidential Permit                                                                                                                          Page Number = 40; Y-Value = 477.
+Chapter 2 DESCRIPTION OF PROPOSED ALTERNATIVES                                                                                                     Page Number = 41; Y-Value = 630.
+2.1 Introduction                                                                                                                                   Page Number = 41; Y-Value = 578.
+2.2 Proposed Project                                                                                                                               Page Number = 41; Y-Value = 481.
+2.3 Alignment Alternative Selection                                                                                                                Page Number = 41; Y-Value = 151.
+2.4 Conveyance Pipeline Alignment Alternatives                                                                                                     Page Number = 42; Y-Value = 574.
+2.4.1 Proposed Alignment Alternative 1                                                                                                             Page Number = 42; Y-Value = 360.
+2.4.2 Proposed Alignment Alternative 2                                                                                                             Page Number = 45; Y-Value = 717.
+2.4.3 Proposed Alignment Alternative 3                                                                                                             Page Number = 45; Y-Value = 529.
+2.5 Additional Project Infrastructure                                                                                                              Page Number = 45; Y-Value = 381.
+2.5.1 Metering Station                                                                                                                             Page Number = 45; Y-Value = 346.
+2.5.2 Potential Disinfection Facility                                                                                                              Page Number = 45; Y-Value = 212.
+2.5.3 Outfall Structure for Non-Specification Potable Water                                                                                        Page Number = 46; Y-Value = 614.
+2.5.4 Potential Pump Station                                                                                                                       Page Number = 47; Y-Value = 720.
+2.6 Construction Methods                                                                                                                           Page Number = 47; Y-Value = 478.
+2.6.1 Conveyance Pipeline                                                                                                                          Page Number = 47; Y-Value = 444.
+2.6.2 Additional Project Infrastructure                                                                                                            Page Number = 48; Y-Value = 394.
+2.7 Operations and Maintenance                                                                                                                     Page Number = 48; Y-Value = 220.
+2.8 No Action – No Project Alternative                                                                                                             Page Number = 49; Y-Value = 260.
+2.9 Comparison of Proposed Alternatives                                                                                                            Page Number = 50; Y-Value = 720.
+2.10 Alternatives Considered During Screening                                                                                                      Page Number = 53; Y-Value = 720.
+A Segment                                                                                                                                          Page Number = 53; Y-Value = 382.
+B Segment                                                                                                                                          Page Number = 53; Y-Value = 137.
+C Segment                                                                                                                                          Page Number = 54; Y-Value = 617.
+D Segment                                                                                                                                          Page Number = 54; Y-Value = 466.
+E Segment                                                                                                                                          Page Number = 54; Y-Value = 290.
+F Segment                                                                                                                                          Page Number = 54; Y-Value = 207.
+G Segment                                                                                                                                          Page Number = 57; Y-Value = 657.
+H Segment                                                                                                                                          Page Number = 57; Y-Value = 560.
+I Segment                                                                                                                                          Page Number = 57; Y-Value = 450.
+J Segment                                                                                                                                          Page Number = 57; Y-Value = 380.
+K Segment                                                                                                                                          Page Number = 57; Y-Value = 216.
+L Segment                                                                                                                                          Page Number = 57; Y-Value = 133.
+M Segment                                                                                                                                          Page Number = 58; Y-Value = 671.
+N Segment                                                                                                                                          Page Number = 58; Y-Value = 547.
+Chapter 3 ALTERNATIVES ANALYSIS                                                                                                                    Page Number = 59; Y-Value = 630.
+3.1 Air Quality                                                                                                                                    Page Number = 59; Y-Value = 246.
+3.1.1 Environmental Setting/Affected Environment                                                                                                   Page Number = 59; Y-Value = 239.
+3.1.1.1 Climate and Meteorology                                                                                                                    Page Number = 59; Y-Value = 75.
+3.1.1.2 Air Pollutants                                                                                                                             Page Number = 60; Y-Value = 714.
+Criteria Air Pollutants                                                                                                                            Page Number = 60; Y-Value = 577.
+Carbon Monoxide                                                                                                                                    Page Number = 60; Y-Value = 405.
+Nitrogen oxides                                                                                                                                    Page Number = 60; Y-Value = 310.
+Ozone                                                                                                                                              Page Number = 60; Y-Value = 241.
+Particulate Matter                                                                                                                                 Page Number = 61; Y-Value = 721.
+Sulfur Dioxide                                                                                                                                     Page Number = 61; Y-Value = 639.
+Other Regulated Air Pollutants                                                                                                                     Page Number = 61; Y-Value = 557.
+Toxic Air Contaminants                                                                                                                             Page Number = 61; Y-Value = 379.
+3.1.1.3 Ambient Air Pollutant Levels                                                                                                               Page Number = 61; Y-Value = 80.
+3.1.1.4 Sensitive Receptors and Locations                                                                                                          Page Number = 63; Y-Value = 714.
+3.1.2 Regulatory Setting                                                                                                                           Page Number = 63; Y-Value = 489.
+3.1.2.1 Federal Regulations and Standards                                                                                                          Page Number = 63; Y-Value = 418.
+Clean Air Act                                                                                                                                      Page Number = 63; Y-Value = 434.
+Federal General Conformity Rule                                                                                                                    Page Number = 64; Y-Value = 720.
+3.1.2.2 State Regulations and Standards                                                                                                            Page Number = 64; Y-Value = 413.
+California Clean Air Act                                                                                                                           Page Number = 64; Y-Value = 408.
+California State Implementation Plan                                                                                                               Page Number = 64; Y-Value = 311.
+Toxic Air Contaminant Regulations                                                                                                                  Page Number = 64; Y-Value = 187.
+3.1.2.3 Regional/Local Regulations and Standards                                                                                                   Page Number = 66; Y-Value = 609.
+San Diego County Regional Air Quality Strategy                                                                                                     Page Number = 66; Y-Value = 604.
+San Diego Air Pollution Control District Rule 50 and 55, Fugitive Dust Control                                                                     Page Number = 66; Y-Value = 212.
+Other San Diego Air Pollution Control District Rules and Regulations                                                                               Page Number = 67; Y-Value = 720.
+3.1.3 Thresholds of Significance                                                                                                                   Page Number = 67; Y-Value = 607.
+3.1.3.1 CEQA Significance Criteria                                                                                                                 Page Number = 67; Y-Value = 536.
+3.1.3.2 NEPA Considerations                                                                                                                        Page Number = 68; Y-Value = 495.
+3.1.4 Applicable Regulatory Measures                                                                                                               Page Number = 68; Y-Value = 390.
+3.1.5 Environmental Effects                                                                                                                        Page Number = 70; Y-Value = 720.
+3.1.5.1 Alternatives 1, 2, and 3                                                                                                                   Page Number = 70; Y-Value = 664.
+Issue 1:  Consistency with Regional Air Quality Plans                                                                                              Page Number = 70; Y-Value = 665.
+Issue 2:  Consistency with Air Quality Standards                                                                                                   Page Number = 70; Y-Value = 324.
+Construction                                                                                                                                       Page Number = 70; Y-Value = 135.
+Operation                                                                                                                                          Page Number = 72; Y-Value = 598.
+Issue 3:  Sensitive Receptors                                                                                                                      Page Number = 73; Y-Value = 296.
+Carbon Monoxide Hot Spots                                                                                                                          Page Number = 73; Y-Value = 148.
+Toxic Air Contaminants                                                                                                                             Page Number = 74; Y-Value = 630.
+Construction                                                                                                                                       Page Number = 74; Y-Value = 611.
+Operation                                                                                                                                          Page Number = 74; Y-Value = 421.
+Issue 4:  Objectionable Odors                                                                                                                      Page Number = 74; Y-Value = 257.
+Construction                                                                                                                                       Page Number = 74; Y-Value = 149.
+Operation                                                                                                                                          Page Number = 75; Y-Value = 563.
+3.1.5.2 No Action Alternative                                                                                                                      Page Number = 75; Y-Value = 481.
+3.1.6 Mitigation Measures                                                                                                                          Page Number = 75; Y-Value = 401.
+3.2 Biological Resources                                                                                                                           Page Number = 77; Y-Value = 708.
+3.2.1 Environmental Setting/Affected Environment                                                                                                   Page Number = 77; Y-Value = 634.
+3.2.1.1 Biological Surveys                                                                                                                         Page Number = 77; Y-Value = 557.
+3.2.1.2 Existing Biological Resources                                                                                                              Page Number = 77; Y-Value = 133.
+Vegetation Communities                                                                                                                             Page Number = 77; Y-Value = 185.
+Riparian and Wetland                                                                                                                               Page Number = 78; Y-Value = 329.
+Upland Vegetation Communities                                                                                                                      Page Number = 83; Y-Value = 228.
+Other Cover Types                                                                                                                                  Page Number = 84; Y-Value = 439.
+Jurisdictional Waters and Wetlands                                                                                                                 Page Number = 84; Y-Value = 244.
+Sensitive Communities                                                                                                                              Page Number = 85; Y-Value = 182.
+Special-Status Plant Species                                                                                                                       Page Number = 85; Y-Value = 162.
+Federally Listed Plant Species                                                                                                                     Page Number = 86; Y-Value = 555.
+Special-Status Wildlife                                                                                                                            Page Number = 93; Y-Value = 720.
+Federally Listed Wildlife Species                                                                                                                  Page Number = 94; Y-Value = 346.
+State Listed Species                                                                                                                               Page Number = 97; Y-Value = 264.
+Migratory Birds                                                                                                                                    Page Number = 97; Y-Value = 209.
+Critical Habitat                                                                                                                                   Page Number = 98; Y-Value = 720.
+Wildlife Corridors                                                                                                                                 Page Number = 98; Y-Value = 180.
+3.2.2 Regulatory Setting                                                                                                                           Page Number = 109; Y-Value = 399.
+3.2.2.1 Federal Regulations and Standards                                                                                                          Page Number = 109; Y-Value = 328.
+Federal Endangered Species Act                                                                                                                     Page Number = 109; Y-Value = 344.
+Migratory Bird Treaty Act                                                                                                                          Page Number = 109; Y-Value = 167.
+Clean Water Act                                                                                                                                    Page Number = 110; Y-Value = 720.
+Executive Order 11990, Protection of Wetlands                                                                                                      Page Number = 110; Y-Value = 636.
+Executive Order 13112, Invasive Species                                                                                                            Page Number = 110; Y-Value = 567.
+3.2.2.2 State Regulations and Standards                                                                                                            Page Number = 110; Y-Value = 463.
+California Endangered Species Act                                                                                                                  Page Number = 110; Y-Value = 470.
+California Fish and Game Code Sections 1600-1602 – Lake or Streambed Alteration                                                                    Page Number = 110; Y-Value = 360.
+California Fish and Game Code Sections 3511, 4700, 5050, and 5515 – Fully Protected Species                                                        Page Number = 110; Y-Value = 222.
+California Fish and Game Code Sections 3503 and 3503.5 – Protection of Birds, Nests, and Raptors                                                   Page Number = 111; Y-Value = 720.
+California Fish and Game Code Section 3513 – Migratory Birds                                                                                       Page Number = 111; Y-Value = 635.
+Native Plant Protection Act                                                                                                                        Page Number = 111; Y-Value = 579.
+Porter-Cologne Water Quality Act                                                                                                                   Page Number = 111; Y-Value = 495.
+3.2.2.3 Local Regulations and Standards                                                                                                            Page Number = 111; Y-Value = 329.
+San Diego County Multiple Species Conservation Program Subregional Plan                                                                            Page Number = 111; Y-Value = 372.
+3.2.3 Thresholds of Significance                                                                                                                   Page Number = 111; Y-Value = 156.
+3.2.3.1 CEQA Significance Criteria                                                                                                                 Page Number = 111; Y-Value = 22.
+3.2.3.2 NEPA Considerations                                                                                                                        Page Number = 112; Y-Value = 452.
+3.2.4 Environmental Effects                                                                                                                        Page Number = 113; Y-Value = 720.
+3.2.4.1 Alternatives 1, 2, and 3                                                                                                                   Page Number = 113; Y-Value = 664.
+Issue 1:  Species Identified as a Candidate, Sensitive, or Special-Status Species                                                                  Page Number = 113; Y-Value = 665.
+Construction Effects Common to Alternatives 1, 2, and 3                                                                                            Page Number = 113; Y-Value = 576.
+Federal and State Listed Plant Species                                                                                                             Page Number = 113; Y-Value = 336.
+Direct Effects                                                                                                                                     Page Number = 113; Y-Value = 268.
+Indirect Effects                                                                                                                                   Page Number = 114; Y-Value = 393.
+Nonlisted Special-Status Plant Species                                                                                                             Page Number = 114; Y-Value = 195.
+Direct Effects                                                                                                                                     Page Number = 114; Y-Value = 175.
+Indirect Effects                                                                                                                                   Page Number = 117; Y-Value = 338.
+Federal and State Listed Wildlife Species                                                                                                          Page Number = 117; Y-Value = 242.
+Direct Effects                                                                                                                                     Page Number = 117; Y-Value = 223.
+Indirect Effects                                                                                                                                   Page Number = 119; Y-Value = 515.
+Nonlisted Special-Status Wildlife Species                                                                                                          Page Number = 119; Y-Value = 164.
+Direct Effects                                                                                                                                     Page Number = 119; Y-Value = 145.
+Indirect Effects                                                                                                                                   Page Number = 123; Y-Value = 721.
+Construction Effects to Alternatives 1, 2, and 3                                                                                                   Page Number = 123; Y-Value = 512.
+Federal and State Listed Plant Species                                                                                                             Page Number = 123; Y-Value = 430.
+Nonlisted Special-Status Plant Species                                                                                                             Page Number = 123; Y-Value = 334.
+Direct Effects                                                                                                                                     Page Number = 123; Y-Value = 279.
+Indirect Effects                                                                                                                                   Page Number = 124; Y-Value = 331.
+Federal and State Listed Wildlife Species                                                                                                          Page Number = 124; Y-Value = 222.
+Direct Effects                                                                                                                                     Page Number = 124; Y-Value = 203.
+Indirect Effects                                                                                                                                   Page Number = 126; Y-Value = 506.
+Nonlisted Special-Status Wildlife Species                                                                                                          Page Number = 126; Y-Value = 383.
+Direct Effects                                                                                                                                     Page Number = 126; Y-Value = 364.
+Indirect Effects                                                                                                                                   Page Number = 128; Y-Value = 466.
+Long-Term Operation and Maintenance Effects for Alternatives 1, 2, and 3                                                                           Page Number = 128; Y-Value = 329.
+Special-Status Species                                                                                                                             Page Number = 129; Y-Value = 475.
+Direct Effects                                                                                                                                     Page Number = 129; Y-Value = 455.
+Indirect Effects                                                                                                                                   Page Number = 129; Y-Value = 333.
+Issue 2:  Riparian Habitat or Other Sensitive Natural Community                                                                                    Page Number = 129; Y-Value = 196.
+Construction Effects Common to Alternatives 1, 2, and 3                                                                                            Page Number = 130; Y-Value = 720.
+Direct Effects                                                                                                                                     Page Number = 130; Y-Value = 700.
+Indirect Effects                                                                                                                                   Page Number = 130; Y-Value = 479.
+Construction Effects to Alternatives 1, 2, and 3                                                                                                   Page Number = 130; Y-Value = 239.
+Direct Effects                                                                                                                                     Page Number = 130; Y-Value = 220.
+Indirect Effects                                                                                                                                   Page Number = 131; Y-Value = 658.
+Long-term Operation and Maintenance Effects Common to Alternatives 1, 2, and 3                                                                     Page Number = 131; Y-Value = 575.
+Direct Effects                                                                                                                                     Page Number = 131; Y-Value = 555.
+Indirect Effects                                                                                                                                   Page Number = 131; Y-Value = 473.
+Issue 3:  Federally Protected Wetlands                                                                                                             Page Number = 131; Y-Value = 350.
+Construction Effects Common to Alternatives 1, 2, and 3                                                                                            Page Number = 131; Y-Value = 277.
+Direct Effects                                                                                                                                     Page Number = 131; Y-Value = 257.
+Indirect Effects                                                                                                                                   Page Number = 132; Y-Value = 483.
+Construction Effects to Alternatives 1, 2, or 3                                                                                                    Page Number = 132; Y-Value = 333.
+Long-Term Operation and Maintenance Effects Common to Alternatives 1, 2, and 3                                                                     Page Number = 132; Y-Value = 263.
+Direct Effects                                                                                                                                     Page Number = 132; Y-Value = 229.
+Indirect Effects                                                                                                                                   Page Number = 132; Y-Value = 160.
+Issue 4:  Movement of Native Resident or Migratory Fish or Wildlife Species                                                                        Page Number = 133; Y-Value = 720.
+Construction Effects Common to Alternatives 1, 2, and 3, and Unique Areas                                                                          Page Number = 133; Y-Value = 630.
+Direct Effects                                                                                                                                     Page Number = 133; Y-Value = 611.
+Indirect Effects                                                                                                                                   Page Number = 133; Y-Value = 345.
+Long-Term Operation and Maintenance Effects Common to Alternatives 1, 2, and 3                                                                     Page Number = 133; Y-Value = 248.
+Issues 5 and 6: Conflicts with Any Local Policies or Ordinances Protecting Biological Resources or an Adopted Habitat Conservation Plan            Page Number = 134; Y-Value = 720.
+3.2.4.2 No Action Alternative                                                                                                                      Page Number = 134; Y-Value = 486.
+3.2.5 Mitigation Measures                                                                                                                          Page Number = 134; Y-Value = 382.
+3.3 Cultural and Paleontological Resources                                                                                                         Page Number = 143; Y-Value = 708.
+3.3.1 Environmental Setting/Affected Environment                                                                                                   Page Number = 143; Y-Value = 634.
+3.3.1.1 Definition of Resources                                                                                                                    Page Number = 143; Y-Value = 416.
+3.3.1.2 Cultural Resources Setting                                                                                                                 Page Number = 144; Y-Value = 71.
+Prehistoric Background                                                                                                                             Page Number = 147; Y-Value = 720.
+Early Period/Archaic                                                                                                                               Page Number = 147; Y-Value = 700.
+Late Period                                                                                                                                        Page Number = 147; Y-Value = 452.
+Ethnographic Background                                                                                                                            Page Number = 147; Y-Value = 289.
+Historic Era Background                                                                                                                            Page Number = 148; Y-Value = 720.
+The Spanish Period (1769 to 1821) and the Mexican Period (1821 to 1848)                                                                            Page Number = 148; Y-Value = 700.
+American Period (1848 to Present)                                                                                                                  Page Number = 148; Y-Value = 555.
+3.3.1.3 Paleontological Resources Setting                                                                                                          Page Number = 148; Y-Value = 239.
+3.3.1.4 Cultural Resources Records Searches                                                                                                        Page Number = 149; Y-Value = 714.
+CHRIS Records Search                                                                                                                               Page Number = 149; Y-Value = 694.
+Native American Heritage Commission Records Search                                                                                                 Page Number = 152; Y-Value = 624.
+Tribal Outreach                                                                                                                                    Page Number = 152; Y-Value = 488.
+Intensive Pedestrian Survey                                                                                                                        Page Number = 152; Y-Value = 225.
+3.3.2 Regulatory Setting                                                                                                                           Page Number = 154; Y-Value = 207.
+3.3.2.1 Federal Regulations and Standards                                                                                                          Page Number = 154; Y-Value = 159.
+National Historic Preservation Act                                                                                                                 Page Number = 154; Y-Value = 152.
+National Register of Historic Places                                                                                                               Page Number = 155; Y-Value = 671.
+Native American Graves Protection and Repatriation Act                                                                                             Page Number = 155; Y-Value = 547.
+3.3.2.2 State Regulations and Standards                                                                                                            Page Number = 155; Y-Value = 411.
+CEQA Guidelines Section 15064.5                                                                                                                    Page Number = 155; Y-Value = 397.
+California Register of Historical Resources (PRC Section 5020 et seq.)                                                                             Page Number = 156; Y-Value = 720.
+California Health and Safety Code Section 7050.5                                                                                                   Page Number = 156; Y-Value = 623.
+California PRC Section 5097.9                                                                                                                      Page Number = 156; Y-Value = 553.
+California Native American Graves Protection and Repatriation Act                                                                                  Page Number = 156; Y-Value = 470.
+3.3.2.3 Local Regulations and Standards                                                                                                            Page Number = 156; Y-Value = 319.
+County of San Diego Code of Regulatory Ordinances Sections 86.601-86.608, Resource Protection Ordinance                                            Page Number = 156; Y-Value = 347.
+Conservation Element (Part X) of the San Diego County General Plan                                                                                 Page Number = 156; Y-Value = 275.
+Mills Act (San Diego County) – Historical Property Contracts, 2002                                                                                 Page Number = 156; Y-Value = 205.
+San Diego County Local Register of Historical Resources, 2002                                                                                      Page Number = 156; Y-Value = 135.
+Zoning Ordinance                                                                                                                                   Page Number = 157; Y-Value = 684.
+3.3.3 Thresholds of Significance                                                                                                                   Page Number = 157; Y-Value = 584.
+3.3.3.1 CEQA Significance Criteria                                                                                                                 Page Number = 157; Y-Value = 523.
+3.3.3.2 NEPA Considerations                                                                                                                        Page Number = 157; Y-Value = 290.
+3.3.4 Applicable Regulatory Measures                                                                                                               Page Number = 157; Y-Value = 220.
+3.3.5 Environmental Effects                                                                                                                        Page Number = 158; Y-Value = 720.
+3.3.5.1 Alternatives 1, 2, and 3                                                                                                                   Page Number = 158; Y-Value = 664.
+Issue 1:  Historical Resources                                                                                                                     Page Number = 158; Y-Value = 665.
+Issue 2:  Archaeological Resources                                                                                                                 Page Number = 158; Y-Value = 503.
+Alternative 1                                                                                                                                      Page Number = 158; Y-Value = 444.
+Alternative 2                                                                                                                                      Page Number = 159; Y-Value = 218.
+Alternative 3                                                                                                                                      Page Number = 159; Y-Value = 121.
+Issue 3:  Paleontological Resources                                                                                                                Page Number = 160; Y-Value = 657.
+Issue 4:  Human Remains                                                                                                                            Page Number = 160; Y-Value = 428.
+3.3.5.2 No Action Alternative                                                                                                                      Page Number = 160; Y-Value = 131.
+3.3.6 Mitigation Measures                                                                                                                          Page Number = 161; Y-Value = 720.
+3.4 Environmental Justice                                                                                                                          Page Number = 167; Y-Value = 708.
+3.4.1 Environmental Setting/Affected Environment                                                                                                   Page Number = 167; Y-Value = 513.
+3.4.1.1 Community Setting                                                                                                                          Page Number = 167; Y-Value = 457.
+3.4.1.2 Environmental Justice Community Definition                                                                                                 Page Number = 167; Y-Value = 138.
+3.4.1.3 Demographic Information                                                                                                                    Page Number = 169; Y-Value = 624.
+Population                                                                                                                                         Page Number = 171; Y-Value = 720.
+Race and Ethnicity of Population                                                                                                                   Page Number = 171; Y-Value = 556.
+Household Income and Poverty                                                                                                                       Page Number = 171; Y-Value = 190.
+3.4.2 Regulatory Setting                                                                                                                           Page Number = 172; Y-Value = 448.
+3.4.2.1 Federal Regulations and Standards                                                                                                          Page Number = 172; Y-Value = 392.
+National Environmental Policy Act (42 U.S.C. Section 4321 et seq.)                                                                                 Page Number = 172; Y-Value = 394.
+Federal Executive Order 12898 - Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations                Page Number = 172; Y-Value = 323.
+Federal Executive Order 13045 – Protection of Children from Environmental Health Risks and Safety Risks                                            Page Number = 173; Y-Value = 720.
+3.4.2.2 State Regulations and Standards                                                                                                            Page Number = 173; Y-Value = 581.
+CEQA (PRC Section 21000 et seq.) and CEQA Guidelines (Title 14 CCR Section 15000 et seq.)                                                          Page Number = 173; Y-Value = 582.
+California Government Code Section 65040.12(e)                                                                                                     Page Number = 173; Y-Value = 457.
+3.4.3 Thresholds of Significance                                                                                                                   Page Number = 173; Y-Value = 344.
+3.4.3.1 CEQA Significance Criteria                                                                                                                 Page Number = 173; Y-Value = 246.
+3.4.3.2 NEPA Considerations                                                                                                                        Page Number = 173; Y-Value = 171.
+3.4.4 Applicable Regulatory Measures                                                                                                               Page Number = 174; Y-Value = 269.
+3.4.5 Environmental Effects                                                                                                                        Page Number = 175; Y-Value = 720.
+3.4.5.1 Alternatives 1, 2, and 3                                                                                                                   Page Number = 175; Y-Value = 664.
+Issue 1:  Disproportionate Effects on a Community                                                                                                  Page Number = 175; Y-Value = 665.
+3.4.5.2 No Action Alternative                                                                                                                      Page Number = 176; Y-Value = 597.
+3.4.6 Mitigation Measures                                                                                                                          Page Number = 176; Y-Value = 512.
+3.5 Geology/Soils                                                                                                                                  Page Number = 177; Y-Value = 708.
+3.5.1 Environmental Setting/Affected Environment                                                                                                   Page Number = 177; Y-Value = 634.
+3.5.1.1 Regional Geology                                                                                                                           Page Number = 177; Y-Value = 557.
+3.5.1.2 Soils and Geologic Formations                                                                                                              Page Number = 177; Y-Value = 247.
+Fill                                                                                                                                               Page Number = 177; Y-Value = 132.
+Topsoil                                                                                                                                            Page Number = 178; Y-Value = 671.
+Alluvium                                                                                                                                           Page Number = 178; Y-Value = 601.
+Terrace Deposits                                                                                                                                   Page Number = 178; Y-Value = 517.
+Otay Formation                                                                                                                                     Page Number = 178; Y-Value = 447.
+Unnamed Fanglomerate Deposits                                                                                                                      Page Number = 178; Y-Value = 350.
+Santiago Peak Volcanics                                                                                                                            Page Number = 178; Y-Value = 267.
+3.5.1.3 Groundwater                                                                                                                                Page Number = 178; Y-Value = 150.
+3.5.1.4 Geologic Hazards                                                                                                                           Page Number = 179; Y-Value = 714.
+Faulting and Seismicity                                                                                                                            Page Number = 179; Y-Value = 644.
+Liquefaction                                                                                                                                       Page Number = 179; Y-Value = 204.
+Landslides                                                                                                                                         Page Number = 180; Y-Value = 720.
+Seiches and Tsunamis                                                                                                                               Page Number = 180; Y-Value = 623.
+Subsidence and Seismic Settlement                                                                                                                  Page Number = 180; Y-Value = 513.
+Expansive Soil                                                                                                                                     Page Number = 180; Y-Value = 429.
+3.5.2 Regulatory Setting                                                                                                                           Page Number = 180; Y-Value = 330.
+3.5.2.1 Federal Regulations and Standards                                                                                                          Page Number = 180; Y-Value = 268.
+Federal Uniform Building Code                                                                                                                      Page Number = 180; Y-Value = 275.
+3.5.2.2 State Regulations and Standards                                                                                                            Page Number = 181; Y-Value = 714.
+California Geologic Survey                                                                                                                         Page Number = 181; Y-Value = 694.
+Alquist-Priolo Earthquake Fault Zoning Act                                                                                                         Page Number = 181; Y-Value = 610.
+California Seismic Hazards Mapping Act                                                                                                             Page Number = 181; Y-Value = 473.
+California Building Code                                                                                                                           Page Number = 181; Y-Value = 323.
+3.5.2.3 Local Regulations and Standards                                                                                                            Page Number = 181; Y-Value = 131.
+San Diego County General Plan Seismic Safety Element                                                                                               Page Number = 181; Y-Value = 159.
+San Diego County Grading Ordinance                                                                                                                 Page Number = 182; Y-Value = 684.
+3.5.3 Thresholds of Significance                                                                                                                   Page Number = 182; Y-Value = 571.
+3.5.3.1 CEQA Significance Criteria                                                                                                                 Page Number = 182; Y-Value = 509.
+3.5.3.2 NEPA Considerations                                                                                                                        Page Number = 182; Y-Value = 199.
+3.5.4 Applicable Regulatory Measures                                                                                                               Page Number = 182; Y-Value = 172.
+3.5.5 Environmental Effects                                                                                                                        Page Number = 185; Y-Value = 347.
+3.5.5.1 Alternatives 1, 2, and 3                                                                                                                   Page Number = 185; Y-Value = 231.
+Issue 1:  Geologic Hazards                                                                                                                         Page Number = 185; Y-Value = 292.
+Ground Rupture                                                                                                                                     Page Number = 185; Y-Value = 219.
+Strong Seismic Ground Shaking                                                                                                                      Page Number = 186; Y-Value = 720.
+Seismic-Related Ground Failure, including Liquefaction                                                                                             Page Number = 186; Y-Value = 556.
+Landslides                                                                                                                                         Page Number = 186; Y-Value = 472.
+Issue 2:  Erosion                                                                                                                                  Page Number = 186; Y-Value = 376.
+Issue 3:  Unstable Soils                                                                                                                           Page Number = 187; Y-Value = 478.
+Issue 4:  Expansive Soils                                                                                                                          Page Number = 187; Y-Value = 253.
+3.5.5.2 No Action Alterative                                                                                                                       Page Number = 188; Y-Value = 638.
+3.5.6 Mitigation Measures                                                                                                                          Page Number = 188; Y-Value = 552.
+3.6 Greenhouse Gas Emissions                                                                                                                       Page Number = 189; Y-Value = 708.
+3.6.1 Environmental Setting/Affected Environment                                                                                                   Page Number = 189; Y-Value = 607.
+3.6.1.1 Global Climate Change Overview                                                                                                             Page Number = 189; Y-Value = 551.
+3.6.1.2 Greenhouse Gases                                                                                                                           Page Number = 189; Y-Value = 277.
+Carbon Dioxide                                                                                                                                     Page Number = 190; Y-Value = 490.
+Methane                                                                                                                                            Page Number = 190; Y-Value = 285.
+Nitrous Oxide                                                                                                                                      Page Number = 190; Y-Value = 148.
+3.6.1.3 Regional Adverse Effects of Climate Change                                                                                                 Page Number = 191; Y-Value = 665.
+3.6.1.4 Global, National, Statewide, and Countywide GHG Inventories                                                                                Page Number = 191; Y-Value = 508.
+Global                                                                                                                                             Page Number = 191; Y-Value = 422.
+United States                                                                                                                                      Page Number = 191; Y-Value = 312.
+California                                                                                                                                         Page Number = 191; Y-Value = 201.
+San Diego County                                                                                                                                   Page Number = 192; Y-Value = 720.
+Otay Water District Facilities                                                                                                                     Page Number = 192; Y-Value = 243.
+3.6.1.5 Existing Energy Setting                                                                                                                    Page Number = 193; Y-Value = 490.
+3.6.2 Regulatory Setting                                                                                                                           Page Number = 193; Y-Value = 345.
+3.6.2.1 Federal Regulations and Standards                                                                                                          Page Number = 193; Y-Value = 289.
+U.S. Environmental Protection Agency Light-Duty Vehicle Greenhouse Gas Emission Standards and Corporate Average Fuel Economy Standards (2010)      Page Number = 193; Y-Value = 290.
+3.6.2.2 State Regulations and Standards                                                                                                            Page Number = 193; Y-Value = 115.
+Assembly Bill 32, the California Global Warming Solutions Act of 2006                                                                              Page Number = 193; Y-Value = 152.
+Executive Order S-3-05                                                                                                                             Page Number = 194; Y-Value = 166.
+Executive Order S-13-08                                                                                                                            Page Number = 195; Y-Value = 630.
+California Code of Regulations Title 24                                                                                                            Page Number = 195; Y-Value = 296.
+3.6.3 Thresholds of Significance                                                                                                                   Page Number = 196; Y-Value = 720.
+3.6.3.1 CEQA Significance Criteria                                                                                                                 Page Number = 196; Y-Value = 664.
+3.6.3.2 NEPA Considerations                                                                                                                        Page Number = 196; Y-Value = 152.
+3.6.4 Applicable Regulatory Measures                                                                                                               Page Number = 197; Y-Value = 681.
+3.6.5 Environmental Effects                                                                                                                        Page Number = 198; Y-Value = 720.
+3.6.5.1 Alternatives 1, 2, and 3                                                                                                                   Page Number = 198; Y-Value = 664.
+Issue 1:  Direct and Indirect Generation of GHG                                                                                                    Page Number = 198; Y-Value = 665.
+Construction                                                                                                                                       Page Number = 198; Y-Value = 570.
+Operation                                                                                                                                          Page Number = 198; Y-Value = 155.
+Issue 2:  Hazards Related to Climate Change                                                                                                        Page Number = 200; Y-Value = 371.
+Issue 3:  Conflict with Applicable Plan, Policy, or Regulation                                                                                     Page Number = 201; Y-Value = 671.
+Issue 4:  Energy Consumption                                                                                                                       Page Number = 201; Y-Value = 495.
+3.6.5.2 No Action Alternative                                                                                                                      Page Number = 202; Y-Value = 467.
+3.6.6 Mitigation Measures                                                                                                                          Page Number = 202; Y-Value = 355.
+3.7 Hazards and Hazardous Materials                                                                                                                Page Number = 205; Y-Value = 708.
+3.7.1 Environmental Setting/Affected Environment                                                                                                   Page Number = 205; Y-Value = 634.
+3.7.1.1 Hazardous Site Database Records Search                                                                                                     Page Number = 205; Y-Value = 578.
+3.7.1.2 Site Reconnaissance                                                                                                                        Page Number = 205; Y-Value = 133.
+Conditions Associated with Existing Uses                                                                                                           Page Number = 206; Y-Value = 684.
+Conditions Associated with Prior Uses                                                                                                              Page Number = 206; Y-Value = 520.
+Conditions Associated with Adjacent Uses                                                                                                           Page Number = 206; Y-Value = 437.
+3.7.2 Regulatory Setting                                                                                                                           Page Number = 206; Y-Value = 229.
+3.7.2.1 Federal Regulations and Standards                                                                                                          Page Number = 206; Y-Value = 155.
+Resource Conservation and Recovery Act of 1976, as amended by the Hazardous and Solid Waste Amendments of 1984                                     Page Number = 206; Y-Value = 175.
+Hazardous Materials Transportation Act                                                                                                             Page Number = 207; Y-Value = 617.
+Title 29 Code of Federal Regulations, Occupational Safety and Health Act                                                                           Page Number = 207; Y-Value = 534.
+3.7.2.2 State Regulations and Standards                                                                                                            Page Number = 207; Y-Value = 423.
+Emergency Response to Hazardous Materials Incidents                                                                                                Page Number = 207; Y-Value = 424.
+California Code of Regulations Title 8, California Occupational Safety and Health Act                                                              Page Number = 207; Y-Value = 327.
+California Code of Regulations Title 22, California Hazardous Waste Control Law                                                                    Page Number = 207; Y-Value = 202.
+California Occupational Safety and Health Act                                                                                                      Page Number = 208; Y-Value = 720.
+3.7.2.3 Local Regulations and Standards                                                                                                            Page Number = 208; Y-Value = 584.
+Unified Program Facility Permits                                                                                                                   Page Number = 208; Y-Value = 570.
+Otay Water District Hazardous Materials Business Plan                                                                                              Page Number = 208; Y-Value = 487.
+San Diego County Emergency Operations Plan                                                                                                         Page Number = 208; Y-Value = 376.
+San Diego County Multi-Jurisdiction Hazard Mitigation Plan                                                                                         Page Number = 208; Y-Value = 239.
+3.7.3 Thresholds of Significance                                                                                                                   Page Number = 209; Y-Value = 720.
+3.7.3.1 CEQA Significance Criteria                                                                                                                 Page Number = 209; Y-Value = 664.
+3.7.3.2 NEPA Considerations                                                                                                                        Page Number = 209; Y-Value = 218.
+3.7.4 Applicable Regulatory Measures                                                                                                               Page Number = 209; Y-Value = 173.
+3.7.5 Environmental Effects                                                                                                                        Page Number = 210; Y-Value = 260.
+3.7.5.1 Alternatives 1, 2, and 3                                                                                                                   Page Number = 210; Y-Value = 204.
+Issues 1 and 2: Routine Transport, Use, or Disposal of Hazardous Materials and Accidental Release of Hazardous Materials                           Page Number = 210; Y-Value = 205.
+Construction                                                                                                                                       Page Number = 211; Y-Value = 720.
+Operation                                                                                                                                          Page Number = 211; Y-Value = 462.
+Issue 3:  Hazards to Schools                                                                                                                       Page Number = 212; Y-Value = 563.
+Issue 4:  Existing Hazardous Materials Sites                                                                                                       Page Number = 212; Y-Value = 388.
+Issues 5 and 6: Public and Private Airport Hazards                                                                                                 Page Number = 213; Y-Value = 720.
+Issue 7:  Emergency Response and Evacuation Plans                                                                                                  Page Number = 213; Y-Value = 495.
+Issue 8:  Wildland Fires                                                                                                                           Page Number = 214; Y-Value = 594.
+Issue 9:  Project Security                                                                                                                         Page Number = 214; Y-Value = 303.
+3.7.5.2 No Action Alternative                                                                                                                      Page Number = 215; Y-Value = 443.
+3.7.6 Mitigation Measures                                                                                                                          Page Number = 215; Y-Value = 364.
+3.8 Hydrology/Water Quality                                                                                                                        Page Number = 217; Y-Value = 708.
+3.8.1 Environmental Setting/Affected Environment                                                                                                   Page Number = 217; Y-Value = 620.
+3.8.1.1 Hydrologic Setting                                                                                                                         Page Number = 217; Y-Value = 565.
+Tijuana Hydrologic Unit                                                                                                                            Page Number = 217; Y-Value = 503.
+Otay Hydrologic Unit                                                                                                                               Page Number = 217; Y-Value = 276.
+3.8.1.2 Surface Water Quality                                                                                                                      Page Number = 219; Y-Value = 624.
+Tijuana Hydrologic Unit                                                                                                                            Page Number = 219; Y-Value = 604.
+Otay Hydrologic Unit                                                                                                                               Page Number = 219; Y-Value = 480.
+Beneficial Use Designation                                                                                                                         Page Number = 219; Y-Value = 370.
+3.8.1.3 Groundwater Quality                                                                                                                        Page Number = 219; Y-Value = 186.
+3.8.1.4 Urban Runoff                                                                                                                               Page Number = 220; Y-Value = 678.
+3.8.1.5 Existing Drainage                                                                                                                          Page Number = 220; Y-Value = 507.
+3.8.1.6 Flooding                                                                                                                                   Page Number = 220; Y-Value = 403.
+3.8.2 Regulatory Setting                                                                                                                           Page Number = 220; Y-Value = 280.
+3.8.2.1 Federal Regulations and Standards                                                                                                          Page Number = 220; Y-Value = 194.
+Clean Water Act                                                                                                                                    Page Number = 220; Y-Value = 225.
+Clean Water Act Section 303(d) Impaired Waters List                                                                                                Page Number = 221; Y-Value = 720.
+Clean Water Act Section 404                                                                                                                        Page Number = 221; Y-Value = 596.
+Federal Water Pollution Control Act/National Pollutant Discharge Elimination System                                                                Page Number = 221; Y-Value = 526.
+Safe Drinking Water Act                                                                                                                            Page Number = 221; Y-Value = 374.
+3.8.2.2 State Regulations and Standards                                                                                                            Page Number = 221; Y-Value = 225.
+State Water Resources Control Board                                                                                                                Page Number = 221; Y-Value = 238.
+Section 401 of the Clean Water Act                                                                                                                 Page Number = 221; Y-Value = 141.
+Porter-Cologne Water Quality Control Act                                                                                                           Page Number = 222; Y-Value = 630.
+NPDES General Permit for Discharges of Storm Water Associated with Construction Activity                                                           Page Number = 222; Y-Value = 520.
+California Water Code, Groundwater Management Act                                                                                                  Page Number = 222; Y-Value = 355.
+Sustainable Groundwater Management Act                                                                                                             Page Number = 222; Y-Value = 258.
+3.8.2.3 Local Regulations and Standards                                                                                                            Page Number = 223; Y-Value = 714.
+San Diego Regional Water Quality Control Board                                                                                                     Page Number = 223; Y-Value = 694.
+San Diego Basin Plan                                                                                                                               Page Number = 223; Y-Value = 507.
+3.8.3 Thresholds of Significance                                                                                                                   Page Number = 223; Y-Value = 367.
+3.8.3.1 CEQA Significance Criteria                                                                                                                 Page Number = 223; Y-Value = 290.
+3.8.3.2 NEPA Considerations                                                                                                                        Page Number = 224; Y-Value = 518.
+3.8.4 Applicable Regulatory Measures                                                                                                               Page Number = 224; Y-Value = 435.
+3.8.5 Environmental Effects                                                                                                                        Page Number = 226; Y-Value = 475.
+3.8.5.1 Alternatives 1, 2, and 3                                                                                                                   Page Number = 226; Y-Value = 419.
+Issues 1 and 2: Water Quality Standards                                                                                                            Page Number = 226; Y-Value = 420.
+Surface Water Quality                                                                                                                              Page Number = 226; Y-Value = 325.
+Construction                                                                                                                                       Page Number = 226; Y-Value = 306.
+Operation                                                                                                                                          Page Number = 227; Y-Value = 604.
+Groundwater Quality                                                                                                                                Page Number = 227; Y-Value = 387.
+Construction                                                                                                                                       Page Number = 227; Y-Value = 367.
+Operation                                                                                                                                          Page Number = 227; Y-Value = 205.
+Summary                                                                                                                                            Page Number = 228; Y-Value = 685.
+Issue 3:  Groundwater Supplies and Recharge                                                                                                        Page Number = 228; Y-Value = 588.
+Issues 4, 5, and 6: Drainage Alterations                                                                                                           Page Number = 228; Y-Value = 203.
+Construction                                                                                                                                       Page Number = 229; Y-Value = 671.
+Operation                                                                                                                                          Page Number = 229; Y-Value = 399.
+Issues 7 and 8: 100-Year Flood Hazards                                                                                                             Page Number = 230; Y-Value = 684.
+Issues 9 and 10: Flooding and Inundation                                                                                                           Page Number = 230; Y-Value = 419.
+3.8.5.2 No Action Alternative                                                                                                                      Page Number = 231; Y-Value = 611.
+3.8.6 Mitigation Measures                                                                                                                          Page Number = 231; Y-Value = 512.
+3.9 Noise                                                                                                                                          Page Number = 233; Y-Value = 708.
+3.9.1 Environmental Setting/Affected Environment                                                                                                   Page Number = 233; Y-Value = 607.
+3.9.1.1 Environmental Noise Terminology                                                                                                            Page Number = 233; Y-Value = 551.
+3.9.1.2 Environmental Vibration Terminology                                                                                                        Page Number = 233; Y-Value = 296.
+3.9.1.3 Existing Noise Conditions                                                                                                                  Page Number = 234; Y-Value = 714.
+Ambient Noise Environment                                                                                                                          Page Number = 234; Y-Value = 694.
+Operational Noise Sources                                                                                                                          Page Number = 234; Y-Value = 530.
+Transportation Noise Sources                                                                                                                       Page Number = 234; Y-Value = 366.
+Aviation                                                                                                                                           Page Number = 234; Y-Value = 346.
+Roadway                                                                                                                                            Page Number = 234; Y-Value = 170.
+Railroad                                                                                                                                           Page Number = 235; Y-Value = 671.
+3.9.1.4  Noise-Sensitive Land Uses                                                                                                                 Page Number = 235; Y-Value = 576.
+3.9.1.5 Vibration-Sensitive Land Uses                                                                                                              Page Number = 235; Y-Value = 317.
+3.9.2 Regulatory Setting                                                                                                                           Page Number = 236; Y-Value = 720.
+3.9.2.1 Federal Regulations and Standards                                                                                                          Page Number = 236; Y-Value = 664.
+Federal Noise Control Act                                                                                                                          Page Number = 236; Y-Value = 665.
+Federal Aviation Administration Standards                                                                                                          Page Number = 236; Y-Value = 555.
+Federal Highway Administration Standards                                                                                                           Page Number = 236; Y-Value = 458.
+Federal Transit Administration and Federal Railroad Administration Standards                                                                       Page Number = 236; Y-Value = 361.
+3.9.2.2 State Regulations and Standards                                                                                                            Page Number = 237; Y-Value = 714.
+California Noise Control Act of 1973                                                                                                               Page Number = 237; Y-Value = 694.
+3.9.2.3 Local Regulations and Standards                                                                                                            Page Number = 237; Y-Value = 576.
+County of San Diego General Plan Noise Element                                                                                                     Page Number = 237; Y-Value = 571.
+County of San Diego Noise Ordinance                                                                                                                Page Number = 237; Y-Value = 434.
+Section 36.404 General Sound Level Limits                                                                                                          Page Number = 237; Y-Value = 284.
+Section 36.408 Hours of Operation of Construction Equipment                                                                                        Page Number = 238; Y-Value = 360.
+Section 36.409 Sound Level Limitations on Construction Equipment                                                                                   Page Number = 238; Y-Value = 169.
+Section 36.417 Exemptions                                                                                                                          Page Number = 239; Y-Value = 721.
+Section 36.423 Variances                                                                                                                           Page Number = 239; Y-Value = 665.
+3.9.3 Thresholds of Significance                                                                                                                   Page Number = 239; Y-Value = 580.
+3.9.3.1 CEQA Significance Criteria                                                                                                                 Page Number = 239; Y-Value = 497.
+3.9.3.2 NEPA Considerations                                                                                                                        Page Number = 239; Y-Value = 273.
+3.9.4 Applicable Regulatory Measures                                                                                                               Page Number = 239; Y-Value = 155.
+3.9.5 Environmental Effects                                                                                                                        Page Number = 240; Y-Value = 462.
+3.9.5.1 Alternatives 1, 2, and 3                                                                                                                   Page Number = 240; Y-Value = 407.
+Issue 1:  Noise Levels in Excess of Standards or Substantial Permanent Ambient Noise Increase                                                      Page Number = 240; Y-Value = 408.
+Proposed Pipeline                                                                                                                                  Page Number = 240; Y-Value = 305.
+Proposed Above-ground Facilities                                                                                                                   Page Number = 240; Y-Value = 221.
+Transportation Noise Sources                                                                                                                       Page Number = 242; Y-Value = 536.
+Summary                                                                                                                                            Page Number = 242; Y-Value = 359.
+Issue 2:  Excessive Groundborne Vibration or Groundborne Noise                                                                                     Page Number = 242; Y-Value = 289.
+Issue 3:  Substantial Temporary or Periodic Increase in Ambient Noise                                                                              Page Number = 244; Y-Value = 720.
+Construction Equipment                                                                                                                             Page Number = 244; Y-Value = 185.
+Construction Vehicle Trips                                                                                                                         Page Number = 245; Y-Value = 492.
+Issue 4:  Excessive Aircraft Noise                                                                                                                 Page Number = 246; Y-Value = 516.
+3.9.5.2 No Action Alternative                                                                                                                      Page Number = 246; Y-Value = 321.
+3.9.6 Mitigation Measures                                                                                                                          Page Number = 246; Y-Value = 222.
+3.10 Transportation/Traffic                                                                                                                        Page Number = 247; Y-Value = 708.
+3.10.1 Environmental Setting/Affected Environment                                                                                                  Page Number = 247; Y-Value = 634.
+3.10.1.1 Existing Roadway Segments Serving the Project Site                                                                                        Page Number = 247; Y-Value = 578.
+3.10.1.2 Existing Traffic Volumes and Levels of Service                                                                                            Page Number = 247; Y-Value = 254.
+3.10.2 Regulatory Setting                                                                                                                          Page Number = 251; Y-Value = 436.
+3.10.2.1 Federal Regulations and Standards                                                                                                         Page Number = 251; Y-Value = 381.
+Highway Capacity Manual                                                                                                                            Page Number = 251; Y-Value = 381.
+Code of Federal Regulations Title 23                                                                                                               Page Number = 251; Y-Value = 258.
+Moving Ahead for Progress in the 21st Century Act                                                                                                  Page Number = 251; Y-Value = 174.
+3.10.2.2 State Regulations and Standards                                                                                                           Page Number = 252; Y-Value = 714.
+California Department of Transportation Standards                                                                                                  Page Number = 252; Y-Value = 694.
+Statewide Transportation Improvement Program                                                                                                       Page Number = 252; Y-Value = 568.
+3.10.2.3 Regional Regulations and Standards                                                                                                        Page Number = 252; Y-Value = 381.
+2050 Regional Transportation Plan                                                                                                                  Page Number = 252; Y-Value = 405.
+2014 Regional Transportation Improvement Program                                                                                                   Page Number = 252; Y-Value = 281.
+San Diego County Congestion Management Program                                                                                                     Page Number = 252; Y-Value = 198.
+San Diego County General Plan Mobility Element                                                                                                     Page Number = 253; Y-Value = 720.
+San Diego County Public Road Standards                                                                                                             Page Number = 253; Y-Value = 623.
+San Diego County Guidelines for Determining Significance and Report Format and Content Requirements for Transportation and Traffic                 Page Number = 253; Y-Value = 540.
+Roadway Segments                                                                                                                                   Page Number = 253; Y-Value = 402.
+Congestion Management Plan                                                                                                                         Page Number = 254; Y-Value = 550.
+3.10.3 Thresholds of Significance                                                                                                                  Page Number = 254; Y-Value = 477.
+3.10.3.1 CEQA Significance Criteria                                                                                                                Page Number = 254; Y-Value = 415.
+3.10.3.2 NEPA Significance Considerations                                                                                                          Page Number = 254; Y-Value = 95.
+3.10.4 Applicable Regulatory Measures                                                                                                              Page Number = 255; Y-Value = 720.
+3.10.5 Environmental Effects                                                                                                                       Page Number = 255; Y-Value = 384.
+3.10.5.1 Alternatives 1, 2, and 3                                                                                                                  Page Number = 255; Y-Value = 307.
+Issue 1:  Circulation System Performance                                                                                                           Page Number = 255; Y-Value = 329.
+Project Trip Generation and Distribution                                                                                                           Page Number = 255; Y-Value = 230.
+Construction Year (2020) Without Project Scenario                                                                                                  Page Number = 256; Y-Value = 459.
+Construction Year (2020) Plus Project Scenario                                                                                                     Page Number = 256; Y-Value = 268.
+Lane Closures for Project Construction                                                                                                             Page Number = 261; Y-Value = 714.
+Issue 2:  Conflict with an Applicable Congestion Management Program                                                                                Page Number = 261; Y-Value = 333.
+Issue 3:  Hazardous Design Features                                                                                                                Page Number = 261; Y-Value = 154.
+Issue 4:  Inadequate Emergency Access                                                                                                              Page Number = 262; Y-Value = 617.
+Issue 5:  Alternative Transportation Facilities                                                                                                    Page Number = 262; Y-Value = 298.
+3.10.5.2 No Action Alternative                                                                                                                     Page Number = 263; Y-Value = 651.
+3.10.6 Mitigation Measures                                                                                                                         Page Number = 263; Y-Value = 552.
+Chapter 4 CUMULATIVE IMPACTS                                                                                                                       Page Number = 265; Y-Value = 630.
+4.1 Introduction                                                                                                                                   Page Number = 265; Y-Value = 599.
+4.1.1 Regulatory Framework                                                                                                                         Page Number = 265; Y-Value = 515.
+4.1.1.1 CEQA                                                                                                                                       Page Number = 265; Y-Value = 487.
+4.1.1.2 NEPA                                                                                                                                       Page Number = 265; Y-Value = 205.
+4.1.1.3 Methodology                                                                                                                                Page Number = 266; Y-Value = 514.
+4.2 Cumulative Effects of Alternatives 1, 2, and 3                                                                                                 Page Number = 269; Y-Value = 274.
+4.2.1 Air Quality                                                                                                                                  Page Number = 269; Y-Value = 240.
+Conformance to Federal and State Ambient Air Quality Standards                                                                                     Page Number = 269; Y-Value = 212.
+Impacts to Sensitive Receptors                                                                                                                     Page Number = 270; Y-Value = 236.
+Objectionable Odors                                                                                                                                Page Number = 273; Y-Value = 563.
+4.2.2 Biological Resources                                                                                                                         Page Number = 273; Y-Value = 396.
+Sensitive Plant and Wildlife Species and Riparian or Other Sensitive Habitats                                                                      Page Number = 273; Y-Value = 368.
+Federally Protected Wetlands                                                                                                                       Page Number = 274; Y-Value = 575.
+Wildlife Movement Corridors and Nursery Sites                                                                                                      Page Number = 274; Y-Value = 371.
+4.2.3 Cultural Resources                                                                                                                           Page Number = 274; Y-Value = 204.
+Historical Resources                                                                                                                               Page Number = 274; Y-Value = 176.
+Archaeological Resources                                                                                                                           Page Number = 275; Y-Value = 630.
+Paleontological Resources                                                                                                                          Page Number = 275; Y-Value = 336.
+Human Remains                                                                                                                                      Page Number = 276; Y-Value = 684.
+4.2.4 Environmental Justice                                                                                                                        Page Number = 276; Y-Value = 468.
+Disproportionate Effects on Environmental Justice Communities                                                                                      Page Number = 276; Y-Value = 439.
+4.2.5 Geology and Soils                                                                                                                            Page Number = 277; Y-Value = 720.
+Exposure to Geologic Hazards, Soil Stability, and Expansive Soils                                                                                  Page Number = 277; Y-Value = 691.
+Soil Erosion or Topsoil Loss                                                                                                                       Page Number = 277; Y-Value = 527.
+4.2.6 Greenhouse Gases                                                                                                                             Page Number = 277; Y-Value = 334.
+Direct and Indirect Generation of GHG                                                                                                              Page Number = 277; Y-Value = 305.
+4.2.7 Hazards and Hazardous Materials                                                                                                              Page Number = 277; Y-Value = 218.
+Routine Transport, Use, or Disposal of Hazardous Materials, and Accidental Release of Hazardous Materials                                          Page Number = 277; Y-Value = 190.
+Hazards to Schools and Existing Hazardous Material Sites                                                                                           Page Number = 278; Y-Value = 527.
+Public and Private Airport Hazards                                                                                                                 Page Number = 278; Y-Value = 390.
+Wildland Fires                                                                                                                                     Page Number = 278; Y-Value = 253.
+Emergency Response and Evacuation Plans                                                                                                            Page Number = 279; Y-Value = 720.
+4.2.8 Hydrology and Water Quality                                                                                                                  Page Number = 279; Y-Value = 540.
+Water Quality Standards and Degradation of Water Quality                                                                                           Page Number = 279; Y-Value = 511.
+Surface Water Quality                                                                                                                              Page Number = 279; Y-Value = 491.
+Groundwater Quality                                                                                                                                Page Number = 279; Y-Value = 122.
+Groundwater Supplies and Recharge                                                                                                                  Page Number = 280; Y-Value = 554.
+Drainage Alterations                                                                                                                               Page Number = 280; Y-Value = 287.
+100-Year Flood Hazards, Flooding, and Inundation                                                                                                   Page Number = 281; Y-Value = 657.
+4.2.9 Noise                                                                                                                                        Page Number = 281; Y-Value = 531.
+Excessive or Permanent Increase in Ambient Noise                                                                                                   Page Number = 281; Y-Value = 502.
+Groundborne Vibration                                                                                                                              Page Number = 282; Y-Value = 174.
+Temporary Increase in Ambient Noise                                                                                                                Page Number = 283; Y-Value = 174.
+Aircraft Noise                                                                                                                                     Page Number = 284; Y-Value = 268.
+4.2.10 Traffic                                                                                                                                     Page Number = 285; Y-Value = 720.
+Circulation System Performance                                                                                                                     Page Number = 285; Y-Value = 691.
+Conflict with Applicable Congestion Management Program                                                                                             Page Number = 285; Y-Value = 424.
+Change in Air Traffic Patterns                                                                                                                     Page Number = 285; Y-Value = 224.
+Hazardous Design Features                                                                                                                          Page Number = 286; Y-Value = 720.
+Inadequate Emergency Access                                                                                                                        Page Number = 286; Y-Value = 610.
+Alternative Transportation Facilities                                                                                                              Page Number = 286; Y-Value = 432.
+4.3 Cumulative Effects of the No Action Alternative                                                                                                Page Number = 286; Y-Value = 306.
+4.4 Mitigation Measures                                                                                                                            Page Number = 286; Y-Value = 182.
+Chapter 5 OTHER CEQA AND NEPA CONSIDERATIONS                                                                                                       Page Number = 289; Y-Value = 630.
+5.1 Introduction                                                                                                                                   Page Number = 289; Y-Value = 577.
+5.2 CEQA Effects Found Not to be Significant                                                                                                       Page Number = 289; Y-Value = 281.
+5.2.1 Aesthetics                                                                                                                                   Page Number = 289; Y-Value = 185.
+5.2.2 Agriculture and Forest Resources                                                                                                             Page Number = 290; Y-Value = 421.
+5.2.3 Land Use and Planning                                                                                                                        Page Number = 291; Y-Value = 538.
+5.2.4 Mineral Resources                                                                                                                            Page Number = 291; Y-Value = 215.
+5.2.5 Population and Housing                                                                                                                       Page Number = 292; Y-Value = 507.
+5.2.6 Public Services                                                                                                                              Page Number = 292; Y-Value = 220.
+5.2.7 Recreation                                                                                                                                   Page Number = 293; Y-Value = 627.
+5.2.8 Utilities and Service Systems                                                                                                                Page Number = 293; Y-Value = 457.
+5.3 NEPA Effects Found Not to be Significant                                                                                                       Page Number = 294; Y-Value = 511.
+5.3.1 Fishing and Gathering                                                                                                                        Page Number = 294; Y-Value = 477.
+5.3.2 Hunting                                                                                                                                      Page Number = 294; Y-Value = 342.
+5.3.3 Visual Resources, Land Use, and Recreation                                                                                                   Page Number = 294; Y-Value = 261.
+5.3.4 Timber Harvesting                                                                                                                            Page Number = 294; Y-Value = 194.
+5.3.5 Wilderness                                                                                                                                   Page Number = 295; Y-Value = 720.
+5.4 Growth Inducement                                                                                                                              Page Number = 295; Y-Value = 599.
+5.4.1 Removal of an Impediment to Growth                                                                                                           Page Number = 295; Y-Value = 345.
+5.4.2 Population Growth                                                                                                                            Page Number = 296; Y-Value = 720.
+5.4.3 Economic Growth                                                                                                                              Page Number = 296; Y-Value = 585.
+5.5 Significant and Unavoidable Environmental Impacts                                                                                              Page Number = 296; Y-Value = 410.
+5.6 Significant Irreversible Environmental Effects                                                                                                 Page Number = 297; Y-Value = 578.
+Chapter 6 REFERENCES CITED                                                                                                                         Page Number = 299; Y-Value = 630.
+Chapter 7 CONSULTATION AND COORDINATION                                                                                                            Page Number = 309; Y-Value = 630.
+Chapter 8 LIST OF PREPARERS                                                                                                                        Page Number = 311; Y-Value = 630.
+Chapter 9 DISTRIBUTION                                                                                                                             Page Number = 315; Y-Value = 630.
+Chapter 10 INDEX                                                                                                                                   Page Number = 319; Y-Value = 630.
